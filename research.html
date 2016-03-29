@@ -5,31 +5,33 @@ permalink: /research/
 ---
 
 <div class="content">
-  <h2 class="section-head">projects</h2>
-  <div class="section-text">
-    <p>yes
-    <br><br></p>
-  </div>
-  <h2 class="section-head">publications</h2>
-  <div class="section-text">
-  	<br>
-    <ul class="post-list">
-    {% for pub in site.publications reversed %}
-      <li>
-        <p>
-        <strong>
-        {% if pub.website %}
-        <a href="{{pub.website}}" target="_blank">{{pub.title}}</a>
-        {% else %}
-        {{pub.title}}
-        {% endif %}
-        </strong>
-        <br>
-        {{pub.authors}}
-        <br>
-        {{pub.venue}}</p>
-      </li>
-    {% endfor %}
-  </ul> 
-  </div>
+	<div class="textbox">
+	  <h2 class="section-head">projects</h2>
+	  <div class="section-text">
+	    <p>yes
+	    <br><br></p>
+	  </div>
+	  <h2 class="section-head">publications</h2>
+	  <div class="section-text">
+	  	<br>
+	    <ul class="post-list">
+	    {% for pub in site.publications reversed %}
+	      <li>
+	        <p>
+	        <strong>
+	        {% if pub.website %}
+	        <a href="{{pub.website}}" target="_blank">{{pub.title}}</a>
+	        {% else %}
+	        {{pub.title}}
+	        {% endif %}
+	        </strong>
+	        <br>
+	        {{pub.authors}}
+	        <br>
+	        {{pub.venue}}</p>
+	      </li>
+	    {% endfor %}
+	  </ul> 
+	  </div>
+	</div>
 </div>
