@@ -8,7 +8,7 @@
 
 .nobile {
     @media only screen and (max-device-width: 480px) {
-        display: none;
+        display: none!important;
     }
 }
 
