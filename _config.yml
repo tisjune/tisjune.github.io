@@ -1,0 +1,22 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: justine zhang
+description: > # this means to ignore newlines until "baseurl:"
+  Hello?
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+github_username:  tisjune
+email: jz727@cornell.edu
+fakeemail: jz727@school.edu
+# Build settings
+markdown: kramdown
+gatesloc: "https://www.google.com/maps/place/Bill+and+Melinda+Gates+Hall/@42.4453009,-76.4808081,15z/data=!4m7!1m4!3m3!1s0x89d0818b5e725517:0x7098683a6a981542!2sBill+and+Melinda+Gates+Hall!3b1!3m1!1s0x89d0818b5e725517:0x7098683a6a981542"
+officeloc: 214 Gates
+collections:
+  - publications
