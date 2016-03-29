@@ -10,7 +10,7 @@ title: justine zhang
 description: > # this means to ignore newlines until "baseurl:"
   Hello?
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "tisjune.github.io" # the base hostname & protocol for your site
 github_username:  tisjune
 email: jz727@cornell.edu
 fakeemail: jz727@school.edu
