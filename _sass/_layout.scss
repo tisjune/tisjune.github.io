@@ -1,7 +1,10 @@
 .content {
     white-space: nowrap;
     display: inline-block;
-    min-width:720px;
+    @media screen and (min-device-width: 481px) {
+        min-width:720px;
+    } 
+        
     padding-left:50px;
     padding-right:50px;
 }
