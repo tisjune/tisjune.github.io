@@ -67,10 +67,12 @@
     @media screen and (min-device-width: 481px) {
         max-width: 80%;
         padding-left:30px;
+        padding-right:30px
     } 
     @media only screen and (max-device-width: 480px) {
         max-width: 90%;
         padding-left:10px;
+        padding-right:10px;
     }
 }
 
