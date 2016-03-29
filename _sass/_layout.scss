@@ -81,10 +81,12 @@
     @media screen and (min-device-width: 481px) {
         max-width: 60%;
         padding-left:30px;
+        padding-right:10px;
     } 
     @media only screen and (max-device-width: 480px) {
         max-width: 90%;
         padding-left:10px;
+        padding-right:10px;
     }
 }
 
@@ -96,6 +98,7 @@
     color: $nav-font-color;
     .social-span {
         line-height: $base-line-height;
+        white-space: nowrap;
         // Gaps between nav items, but not on the last one
         &:not(:last-child) {
             margin-right: 20px;
