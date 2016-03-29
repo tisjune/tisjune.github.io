@@ -6,6 +6,12 @@
     padding-right:50px;
 }
 
+.nobile {
+    @media only screen and (max-device-width: 480px) {
+        display: none;
+    }
+}
+
 /**
  * Site header
  */
@@ -94,7 +100,7 @@
         }
     }
 
-    @include media-query($on-palm) {
+    /** @include media-query($on-palm) {
         position: absolute;
         top: 9px;
         right: $spacing-unit / 2;
@@ -141,7 +147,7 @@
             }
             margin-left: 20px;
         }
-    }
+    } **/
 }
 
 
