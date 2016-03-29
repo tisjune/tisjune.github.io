@@ -3,10 +3,14 @@
     display: inline-block;
     @media screen and (min-device-width: 481px) {
         min-width:720px;
+        padding-left:50px;
+        padding-right:50px;
     } 
-        
-    padding-left:50px;
-    padding-right:50px;
+    @media only screen and (max-device-width: 480px) {
+        padding-left:10px;
+        padding-right:10px;
+    }    
+    
 }
 
 .nobile {
