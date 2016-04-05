@@ -1,0 +1,26 @@
+justinez:
+  name: 'Justine Zhang'
+  
+carolines:
+  name: 'Caroline Suen'
+  website: 'http://carolinesuen.com/'
+
+cristiand:
+  name: 'Cristian Danescu-Niculescu-Mizil'
+  website: 'http://www.cs.cornell.edu/~cristian/'
+
+jurel:
+  name: 'Jure Leskovec'
+  website: 'https://cs.stanford.edu/people/jure/index.html'
+
+ravik:
+  name: 'Ravi Kumar'
+  website: 'https://sites.google.com/site/ravik53/'
+
+sujithr:
+  name: 'Sujith Ravi'
+  website: 'http://www.sravi.org/'
+
+vladn:
+  name: 'Vlad Niculae'
+  website: 'http://vene.ro/'

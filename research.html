@@ -26,7 +26,9 @@ permalink: /research/
 	        {% endif %}
 	        </strong>
 	        <br>
-	        {{pub.authors}}
+	        {% for author in pub.authors %}
+	        {{ site.data.authors[author.id].name }}{{ author.tag }}{% unless forloop.last %}, {% endunless %}
+	        {% endfor %}
 	        <br>
 	        {{pub.venue}}</p>
 	      </li>

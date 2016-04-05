@@ -53,10 +53,18 @@
     font-style: $head-font-style;
 }
 
+.subsection-head {
+    font-size: $subhead-font-size;
+    font-weight: $head-font-weight;
+    color: $grey-color-dark;
+    font-style: $subhead-font-style;
+}
+
 .section-text{
     padding-left: 20px;
     font-size: $text-font-size;
     color: $text-font-color;
+    text-align: justify;
     line-height: $text-line-height;
 }
 

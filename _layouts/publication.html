@@ -1,0 +1,29 @@
+---
+layout: default
+---
+
+<div class="textbox">
+<h2 class="subsection-head">{{page.title}}</h2>
+<div class="section-text">
+	<p>
+	{% for author in page.authors %}
+		{% if site.data.authors[author.id].website %}<a href={{ site.data.authors[author.id].website }} target='_blank'>{{ site.data.authors[author.id].name }}</a>{% else %}{{ site.data.authors[author.id].name }}{% endif %}{{ author.tag }}{% unless forloop.last %}, {% endunless %}
+	{% endfor %}
+	<br>
+	{{page.venue}}
+	<br>
+	{% if page.pdflink %}
+	<br><a href={{page.pdflink}} target='_blank'>PDF</a>
+	{% endif %}
+	{% if page.datalink %}
+	<br><a href={{page.datalink}} target='_blank'>Data</a>
+	{% endif %}
+	</p>
+</div>
+
+{{ content }}
+<h3 class="subsection-head">Abstract</h3>
+<div class="section-text">
+	<p>{{page.abstract}}</p>
+</div>
+</div>

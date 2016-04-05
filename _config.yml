@@ -17,5 +17,6 @@ fakeemail: jz727@school.edu
 markdown: kramdown
 gatesloc: "https://www.google.com/maps/place/Bill+and+Melinda+Gates+Hall/@42.4453009,-76.4808081,15z/data=!4m7!1m4!3m3!1s0x89d0818b5e725517:0x7098683a6a981542!2sBill+and+Melinda+Gates+Hall!3b1!3m1!1s0x89d0818b5e725517:0x7098683a6a981542"
 officeloc: 214 Gates
+include: ["_publications"]
 collections:
   - publications
