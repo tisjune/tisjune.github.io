@@ -1,7 +1,7 @@
-Intelligence Squared Conversation Flow Dataset
+Intelligence Squared Debate Dataset
 ==============================================
 
-This dataset contains a collection of transcripts and metadata for debates from the series "Intelligence Squared Debates" (IQ2) [1], held in the US from September 2006 to September 2015. For each debate, the transcript of each turn is given, along with information such as voting results pre- and post-debate, and audience reaction markers.
+This dataset contains a collection of transcripts and metadata for debates from the series "Intelligence Squared Debates" (IQ2) [1], held in the US from September 2006 to September 2015. For each debate, the transcript of each turn is given, along with information such as voting results pre- and post-debate, and audience reaction markers. There are 108 debates with an average of 117 utterances per debate.
 
 URL: http://tisjune.github.io/research/iq2
 Authors: Justine Zhang <jz727@cornell.edu>
@@ -10,6 +10,7 @@ Authors: Justine Zhang <jz727@cornell.edu>
 		 Cristian Danescu-Niculescu-Mizil <cristian@cs.cornell.edu>
 Contact: Justine Zhang <jz727@cornell.edu>
 Last updated: April 5, 2016
+Version: 1.0
 
 The dataset is further described in our paper:
 	Conversational flow in Oxford-style debates
