@@ -16,7 +16,7 @@ layout: default
 	<br><a href={{page.pdflink}} target='_blank'>PDF</a>
 	{% endif %}
 	{% if page.datalink %}
-	<br><a href={{page.datalink}} target='_blank'>Data</a>
+	<br><a href={{page.datalink}} target='_blank'>Data</a>{% if page.readmelink %} (<a href={{page.readmelink}} target='_blank'>README</a>){% endif %}
 	{% endif %}
 	</p>
 </div>
