@@ -10,6 +10,10 @@ cristiand:
   name: 'Cristian Danescu-Niculescu-Mizil'
   website: 'http://www.cs.cornell.edu/~cristian/'
 
+danj:
+  name: 'Dan Jurafsky'
+  website: 'http://web.stanford.edu/~jurafsky/'
+
 jurel:
   name: 'Jure Leskovec'
   website: 'https://cs.stanford.edu/people/jure/index.html'
@@ -25,3 +29,7 @@ sujithr:
 vladn:
   name: 'Vlad Niculae'
   website: 'http://vene.ro/'
+
+willh:
+  name: 'William L. Hamilton'
+  website: 'https://stanford.edu/~wleif/'
