@@ -6,5 +6,5 @@ authors:
   - { id: 'cristiand', tag: '' }
   - { id: 'danj', tag: '' }
   - { id: 'jurel', tag: '' }
-venue: Proceedings of ICWSM, 2017.
+venue: Proceedings of ICWSM, 2017. To appear. * Equal contributions.
 ---
