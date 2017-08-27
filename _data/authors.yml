@@ -1,7 +1,11 @@
 justinez:
   name: 'Justine Zhang'
   website: 'http://tisjune.github.io/'
-  
+
+arthurs:
+  name: 'Arthur Spirling'
+  website: 'http://www.nyu.edu/projects/spirling/'  
+
 carolines:
   name: 'Caroline Suen'
   website: 'http://carolinesuen.com/'
