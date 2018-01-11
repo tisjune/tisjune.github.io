@@ -66,6 +66,24 @@ $on-laptop:        800px;
     }
 }
 
+.item-list {
+    margin-left: 0;
+    list-style: none;
+    line-height: $text-line-height;
+
+    > li {
+        margin-bottom: $spacing-mini;
+    }
+}
+
+.place {
+    padding-left: 75px;
+    font-size: 16px;
+    font-style: italic;
+    > a {
+        color: $text-font-color;
+    }
+}
 
 
 // Import partials from `sass_dir` (defaults to `_sass`)
