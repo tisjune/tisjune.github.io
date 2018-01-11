@@ -83,6 +83,9 @@ $on-laptop:        800px;
     > a {
         color: $text-font-color;
     }
+    > a:visited {
+        color: $text-font-color;
+    }
 }
 
 
