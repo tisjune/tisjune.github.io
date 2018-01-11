@@ -1,20 +1,90 @@
 ---
 layout: default
-title: misc
-permalink: /misc/
+title: recreation
+permalink: /recreation/
 ---
 
 <div class="content">
 	<div class="textbox">
-	  <h2 class="section-head">projects</h2>
+	  <h2 class="section-head">present</h2>
 	  <div class="section-text">
-	    <p>chewing on <a href="https://www.amazon.com/History-Siege-Lisbon-Jose-Saramago/dp/0156006243" target="_blank">The History of the Siege of Lisbon</a> (Jose Saramago) and <a href="https://www.amazon.com/Mostly-Harmless-Econometrics-Empiricists-Companion/dp/0691120358/" target="_blank">Mostly Harmless Econometrics</a> (Joshua Angrist and Jörn-Steffen Pischke)
-	    <br><br></p>
+	    <ul class="item-list">
+	    {% for thing in site.data.consumables %}
+	    	{% if thing.state == "present" %}
+	    	<li>
+	    		{{thing.date}} -
+	    		{% if thing.link %}
+	    		<a href="{{thing.link}}" target="_blank">{{thing.name}}</a>
+	    		{% else %}
+	    		{{thing.name}}
+	    		{% endif %}- 
+	    		{{thing.author}}
+	    		{% if thing.place %}
+	    		<br>
+	    		<span class="place"><a href="{{site.data.places[thing.place].maploc}}" target="_blank">{{site.data.places[thing.place].name}}</a>
+	    		{% endif %}</span>
+	    	</li>
+	    	{% endif %}
+	    {% endfor %}
+	    </ul>
 	  </div>
-	  <h2 class="section-head">blog</h2>
+
+	  <h2 class="section-head">past</h2>
 	  <div class="section-text">
-	    <p>not cool enough :(
-	    <br><br></p>
+	    <ul class="item-list">
+	    {% for thing in site.data.consumables %}
+	    	{% if thing.state == "past" %}
+	    	<li>
+	    		{{thing.date}} -
+	    		{% if thing.link %}
+	    		<a href="{{thing.link}}" target="_blank">{{thing.name}}</a>
+	    		{% else %}
+	    		{{thing.name}}
+	    		{% endif %}- 
+	    		{{thing.author}}
+	    		{% if thing.place %}
+	    		<br>
+	    		<span class="place"><a href="{{site.data.places[thing.place].maploc}}" target="_blank">{{site.data.places[thing.place].name}}</a>
+	    		{% endif %}</span>
+	    	</li>
+	    	{% endif %}
+	    {% endfor %}
+	    </ul>
 	  </div>
+
+	  <h2 class="section-head">open parentheses</h2>
+	  <div class="section-text">
+	  	<p>lots :(</p>
+	    <ul class="item-list">
+	    {% for thing in site.data.consumables %}
+	    	{% if thing.state == "parens" %}
+	    	<li>
+	    		{{thing.date}} -
+	    		{% if thing.link %}
+	    		<a href="{{thing.link}}" target="_blank">{{thing.name}}</a>
+	    		{% else %}
+	    		{{thing.name}}
+	    		{% endif %}- 
+	    		{{thing.author}}
+	    		{% if thing.place %}
+	    		<br>
+	    		<span class="place"><a href="{{site.data.places[thing.place].maploc}}" target="_blank">{{site.data.places[thing.place].name}}</a>
+	    		{% endif %}</span>
+	    	</li>
+	    	{% endif %}
+	    {% endfor %}
+	    </ul>
+	  </div>
+	<!-- <h2 class="section-head">postscripts</h2>
+	<div class="section-text">
+		<p><strong>
+			places
+			<br>
+			parentheses
+		</strong>
+		</p>
+	</div> -->
 	</div>
+
+
 </div>

@@ -1,0 +1,67 @@
+den_sorte_diamant:
+  name: "Den Sorte Diamant"
+  maploc: "https://goo.gl/maps/Mwys8nJDhyM2"
+
+phil_sebastian:
+  name: "Phil & Sebastian"
+  maploc: "https://goo.gl/maps/1X8pyjKW5PL2"
+
+carmo:
+  name: "Charafiz do Carmo"
+  maploc: "https://goo.gl/maps/mtFLMEPGNUp"
+
+gimme:
+  name: "Gimme! Coffee"
+  maploc: "https://goo.gl/maps/Ry15QV2CkD62"
+
+mcnally_jackson:
+  name: "McNally Jackson"
+  maploc: "https://goo.gl/maps/jicNPNqcpks"
+
+higher_ground:
+  name: "Higher Ground"
+  maploc: "https://goo.gl/maps/4U5nR6E5KS72"
+
+canmore:
+  name: "Canmore"
+  maploc: "https://goo.gl/maps/rQTxv1rPbQL2"
+
+devocion:
+  name: "Devoción"
+  maploc: "https://goo.gl/maps/vhkJ8i4bStm"
+
+fresco:
+  name: "Fresco Gelateria"
+  maploc: "https://goo.gl/maps/QdEFeQnQ4C32"
+
+kimberley: 
+  name: "Kimberley"
+  maploc: "https://goo.gl/maps/MNe9M97iKc62"
+
+narnia:
+  name: "Narnia"
+  maploc: "https://goo.gl/maps/NAnLkr91Qsk"
+
+coho:
+  name: "CoHo"
+  maploc: "https://goo.gl/maps/XurMMQLUCmH2"
+
+kreuzberg:
+  name: "Kreuzberg"
+  maploc: "https://goo.gl/maps/acMXZ1osoC52"
+
+oakcreek:
+  name: "Oak Creek Apartments"
+  maploc: "https://goo.gl/maps/Ed6w3n559JK2"
+
+ricker:
+  name: "Ricker Dining Hall"
+  maploc: "https://goo.gl/maps/UhGiK4P6Kpr"
+
+braun:
+  name: "Braun Auditorium"
+  maploc: "https://goo.gl/maps/NSx167FaXwj"
+
+burbank:
+  name: "Burbank House"
+  maploc: "https://goo.gl/maps/YS13FPRANR22"
