@@ -1,12 +1,5 @@
 ## present
 
-- id: "smith1958religions"
-  name: "The World's Religions"
-  author: "Huston Smith"
-  link: "https://www.amazon.com/Worlds-Religions-Huston-Smith/dp/0061660183"
-  date: "2018/01"
-  state: "present"
-
 - id: "schubert1827impr90_1"
   name: "Impromptu Op. 90, No. 1"
   author: "Franz Schubert"
@@ -29,6 +22,14 @@
   state: "present"
 
 ## past
+
+- id: "smith1958religions"
+  name: "The World's Religions"
+  author: "Huston Smith"
+  link: "https://www.amazon.com/Worlds-Religions-Huston-Smith/dp/0061660183"
+  date: "2018/01"
+  place: "cantook_mt"
+  state: "past"
 
 - id: "egan2014axiomatic"
   name: "Axiomatic"
