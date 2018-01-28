@@ -1,5 +1,12 @@
 ## present
 
+- id: "angrist2008harmless"
+  name: "Mostly Harmless Econometrics"
+  author: "Joshua Angrist & Jörn-Steffen Pischke"
+  link: "https://www.amazon.com/Mostly-Harmless-Econometrics-Empiricists-Companion/dp/0691120358/"
+  date: "2017"
+  state: "present"
+
 - id: "schubert1827impr90_1"
   name: "Impromptu Op. 90, No. 1"
   author: "Franz Schubert"
@@ -22,6 +29,14 @@
   state: "present"
 
 ## past
+
+- id: "gladstone2017reality"
+  name: "The Trouble with Reality"
+  author: "Brooke Gladstone"
+  link: "https://www.wnyc.org/shows/otm/"
+  date: "2018/01"
+  place: "gimme"
+  state: "past"
 
 - id: "smith1958religions"
   name: "The World's Religions"
@@ -301,13 +316,6 @@
   state: "past"
 
 ## parens
-
-- id: "angrist2008harmless"
-  name: "Mostly Harmless Econometrics"
-  author: "Joshua Angrist & Jörn-Steffen Pischke"
-  link: "https://www.amazon.com/Mostly-Harmless-Econometrics-Empiricists-Companion/dp/0691120358/"
-  date: "2017"
-  state: "parens"
 
 - id: "saramoga1989siege"
   name: "The History of the Siege of Lisbon"
