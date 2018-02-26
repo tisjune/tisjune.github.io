@@ -21,14 +21,16 @@
   date: "2017/12"
   state: "present"
 
+
+
+## past
+
 - id: "bach1722wtk1cmaj"
   name: "Prelude and Fugue in C major, BWV 846"
   author: "Johann Sebastian Bach"
   link: "https://open.spotify.com/track/2XxC430QMotGdympDP1aBo"
-  date: "2017/12"
-  state: "present"
-
-## past
+  date: "2018/01"
+  state: "past"
 
 - id: "gladstone2017reality"
   name: "The Trouble with Reality"
