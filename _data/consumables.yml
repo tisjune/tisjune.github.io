@@ -21,6 +21,13 @@
   date: "2017/12"
   state: "present"
 
+- id: "carse1986games"
+  name: "Finite and Infinite Gates"
+  author: "James Carse"
+  link: "https://www.amazon.com/Finite-Infinite-Games-James-Carse/dp/1476731713"
+  date: "2018/03"
+  state: "present"
+
 
 
 ## past
