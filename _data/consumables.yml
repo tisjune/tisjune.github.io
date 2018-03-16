@@ -21,16 +21,19 @@
   date: "2017/12"
   state: "present"
 
+
+
+
+## past
+
 - id: "carse1986games"
   name: "Finite and Infinite Gates"
   author: "James Carse"
   link: "https://www.amazon.com/Finite-Infinite-Games-James-Carse/dp/1476731713"
   date: "2018/03"
-  state: "present"
+  place: "nikkigreen"
+  state: "past"
 
-
-
-## past
 
 - id: "bach1722wtk1cmaj"
   name: "Prelude and Fugue in C major, BWV 846"
