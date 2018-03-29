@@ -7,11 +7,11 @@
   date: "2017"
   state: "present"
 
-- id: "schubert1827impr90_1"
-  name: "Impromptu Op. 90, No. 1"
-  author: "Franz Schubert"
-  link: "https://open.spotify.com/track/6YifItcyCneCuLv8gzwgXm"
-  date: "2018/01"
+- id: "bach1722wtk1cmin"
+  name: "Prelude and Fugue in C minor, BWV 847"
+  author: "Johann Sebastian Bach"
+  link: "https://open.spotify.com/track/1FcWbPjfy4pg7OTbXqaa4V?si=v3ZC2ficSZSiOEB0mQuqag"
+  date: "2018/03"
   state: "present"
 
 - id: "eco1988pendulum"
@@ -21,13 +21,18 @@
   date: "2017/12"
   state: "present"
 
-
+- id: "meadows2008systems"
+  name: "Thinking in Systems"
+  author: "Donella Meadows"
+  link: "https://www.amazon.com/Thinking-Systems-Donella-H-Meadows/dp/1603580557"
+  date: "2018/03"
+  state: "present"
 
 
 ## past
 
 - id: "carse1986games"
-  name: "Finite and Infinite Gates"
+  name: "Finite and Infinite Games"
   author: "James Carse"
   link: "https://www.amazon.com/Finite-Infinite-Games-James-Carse/dp/1476731713"
   date: "2018/03"
@@ -371,6 +376,11 @@
   date: "2013"
   state: "parens"
 
-
+- id: "schubert1827impr90_1"
+  name: "Impromptu Op. 90, No. 1"
+  author: "Franz Schubert"
+  link: "https://open.spotify.com/track/6YifItcyCneCuLv8gzwgXm"
+  date: "2018/01"
+  state: "parens"
 
 
