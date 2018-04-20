@@ -21,15 +21,15 @@
   date: "2017/12"
   state: "present"
 
+## past
+
 - id: "meadows2008systems"
   name: "Thinking in Systems"
   author: "Donella Meadows"
   link: "https://www.amazon.com/Thinking-Systems-Donella-H-Meadows/dp/1603580557"
-  date: "2018/03"
-  state: "present"
-
-
-## past
+  date: "2018/04"
+  place: "gimme"
+  state: "past"
 
 - id: "carse1986games"
   name: "Finite and Infinite Games"
