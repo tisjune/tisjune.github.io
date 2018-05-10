@@ -18,9 +18,21 @@ danj:
   name: 'Dan Jurafsky'
   website: 'http://web.stanford.edu/~jurafsky/'
 
+dariot:
+  name: 'Dario Taraborelli'
+
+jonathanc:
+  name: 'Jonathan Chang'
+
 jurel:
   name: 'Jure Leskovec'
   website: 'https://cs.stanford.edu/people/jure/index.html'
+
+lucasd:
+  name: 'Lucas Dixon'
+
+nithumt:
+  name: Nithum Thain
 
 ravik:
   name: 'Ravi Kumar'
@@ -37,3 +49,6 @@ vladn:
 willh:
   name: 'William L. Hamilton'
   website: 'https://stanford.edu/~wleif/'
+
+yiqingh:
+  name: 'Yiqing Hua'
