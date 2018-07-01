@@ -7,22 +7,17 @@
   date: "2017"
   state: "present"
 
-- id: "bach1722wtk1csharpmaj"
-  name: "Prelude and Fugue in C# major, BWV 848"
-  author: "Johann Sebastian Bach"
-  link: "https://open.spotify.com/track/3x0jma6mENFW0DD4cNp3O8?si=D4aiRW_nSP6FcqmfLYczyw"
-  date: "2018/04"
-  state: "present"
 
+
+## past
 
 - id: "eco1988pendulum"
   name: "Foucault's Pendulum"
   author: "Umberto Eco"
   link: "https://www.amazon.com/Foucaults-Pendulum-Umberto-Eco/dp/015603297X"
   date: "2017/12"
-  state: "present"
-
-## past
+  place: "highline"
+  state: "past"
 
 - id: "bach1722wtk1cmin"
   name: "Prelude and Fugue in C minor, BWV 847"
@@ -391,4 +386,10 @@
   date: "2018/01"
   state: "parens"
 
+- id: "bach1722wtk1csharpmaj"
+  name: "Prelude and Fugue in C# major, BWV 848"
+  author: "Johann Sebastian Bach"
+  link: "https://open.spotify.com/track/3x0jma6mENFW0DD4cNp3O8?si=D4aiRW_nSP6FcqmfLYczyw"
+  date: "2018/04"
+  state: "parens"
 
