@@ -7,15 +7,30 @@
   date: "2017"
   state: "present"
 
+- id: "orwell1938homage"
+  name: "Homage to Catalonia"
+  author: "George Orwell"
+  link: "https://www.amazon.com/Homage-Catalonia-George-Orwell/dp/0156421178"
+  date: "2018/07"
+  state: "present"
+
 
 
 ## past
+
+- id: "bourdain2007kitchen"
+  name: "Kitchen Confidential"
+  author: "Anthony Bourdain"
+  link: "https://www.amazon.com/Kitchen-Confidential-Updated-Adventures-Underbelly/dp/0060899220"
+  date: "2018/07"
+  place: "mcnally_jackson"
+  state: "past"
 
 - id: "eco1988pendulum"
   name: "Foucault's Pendulum"
   author: "Umberto Eco"
   link: "https://www.amazon.com/Foucaults-Pendulum-Umberto-Eco/dp/015603297X"
-  date: "2017/12"
+  date: "2018/07"
   place: "highline"
   state: "past"
 
