@@ -1,14 +1,11 @@
 ## present
 
-- id: "angrist2008harmless"
-  name: "Mostly Harmless Econometrics"
-  author: "Joshua Angrist & Jörn-Steffen Pischke"
-  link: "https://www.amazon.com/Mostly-Harmless-Econometrics-Empiricists-Companion/dp/0691120358/"
-  date: "2017"
+- id: "macgregor2010objects"
+  name: "A History of the World in 100 Objects"
+  author: "Neil MacGregor"
+  link: "https://www.amazon.com/History-World-100-Objects/dp/B00762WY6S"
+  date: "2018/07"
   state: "present"
-
-
-
 
 
 ## past
@@ -409,5 +406,12 @@
   author: "Johann Sebastian Bach"
   link: "https://open.spotify.com/track/3x0jma6mENFW0DD4cNp3O8?si=D4aiRW_nSP6FcqmfLYczyw"
   date: "2018/04"
+  state: "parens"
+
+- id: "angrist2008harmless"
+  name: "Mostly Harmless Econometrics"
+  author: "Joshua Angrist & Jörn-Steffen Pischke"
+  link: "https://www.amazon.com/Mostly-Harmless-Econometrics-Empiricists-Companion/dp/0691120358/"
+  date: "2017"
   state: "parens"
 
