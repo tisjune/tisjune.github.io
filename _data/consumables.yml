@@ -7,16 +7,19 @@
   date: "2017"
   state: "present"
 
+
+
+
+
+## past
+
 - id: "orwell1938homage"
   name: "Homage to Catalonia"
   author: "George Orwell"
   link: "https://www.amazon.com/Homage-Catalonia-George-Orwell/dp/0156421178"
   date: "2018/07"
-  state: "present"
-
-
-
-## past
+  place: "melbourne_gardens"
+  state: "past"
 
 - id: "bourdain2007kitchen"
   name: "Kitchen Confidential"
