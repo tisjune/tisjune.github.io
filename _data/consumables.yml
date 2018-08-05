@@ -1,14 +1,17 @@
 ## present
 
+
+
+
+## past
+
 - id: "macgregor2010objects"
   name: "A History of the World in 100 Objects"
   author: "Neil MacGregor"
   link: "https://www.amazon.com/History-World-100-Objects/dp/B00762WY6S"
-  date: "2018/07"
-  state: "present"
-
-
-## past
+  date: "2018/08"
+  place: "cafe_integral"
+  state: "past"
 
 - id: "orwell1938homage"
   name: "Homage to Catalonia"
@@ -352,6 +355,27 @@
 
 ## parens
 
+- id: "schubert1827impr90_1"
+  name: "Impromptu Op. 90, No. 1"
+  author: "Franz Schubert"
+  link: "https://open.spotify.com/track/6YifItcyCneCuLv8gzwgXm"
+  date: "2018/01"
+  state: "parens"
+
+- id: "bach1722wtk1csharpmaj"
+  name: "Prelude and Fugue in C# major, BWV 848"
+  author: "Johann Sebastian Bach"
+  link: "https://open.spotify.com/track/3x0jma6mENFW0DD4cNp3O8?si=D4aiRW_nSP6FcqmfLYczyw"
+  date: "2018/04"
+  state: "parens"
+
+- id: "angrist2008harmless"
+  name: "Mostly Harmless Econometrics"
+  author: "Joshua Angrist & Jörn-Steffen Pischke"
+  link: "https://www.amazon.com/Mostly-Harmless-Econometrics-Empiricists-Companion/dp/0691120358/"
+  date: "2017"
+  state: "parens"
+
 - id: "saramoga1989siege"
   name: "The History of the Siege of Lisbon"
   author: "José Saramago"
@@ -394,24 +418,5 @@
   date: "2013"
   state: "parens"
 
-- id: "schubert1827impr90_1"
-  name: "Impromptu Op. 90, No. 1"
-  author: "Franz Schubert"
-  link: "https://open.spotify.com/track/6YifItcyCneCuLv8gzwgXm"
-  date: "2018/01"
-  state: "parens"
 
-- id: "bach1722wtk1csharpmaj"
-  name: "Prelude and Fugue in C# major, BWV 848"
-  author: "Johann Sebastian Bach"
-  link: "https://open.spotify.com/track/3x0jma6mENFW0DD4cNp3O8?si=D4aiRW_nSP6FcqmfLYczyw"
-  date: "2018/04"
-  state: "parens"
-
-- id: "angrist2008harmless"
-  name: "Mostly Harmless Econometrics"
-  author: "Joshua Angrist & Jörn-Steffen Pischke"
-  link: "https://www.amazon.com/Mostly-Harmless-Econometrics-Empiricists-Companion/dp/0691120358/"
-  date: "2017"
-  state: "parens"
 
