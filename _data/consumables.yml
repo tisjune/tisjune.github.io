@@ -1,9 +1,21 @@
 ## present
 
-
-
+- id: "solnit2001wanderlust"
+  name: "Wanderlust: A History of Walking"
+  author: "Rebecca Solnit"
+  link: "https://www.amazon.com/Wanderlust-History-Walking-Rebecca-Solnit/dp/0140286012"
+  date: "2018/08"
+  state: "present"
 
 ## past
+
+- id: "bourdain2002tour"
+  name: "A Cook's Tour"
+  author: "Anthony Bourdain"
+  link: "https://www.amazon.com/Cooks-Tour-Adventures-Extreme-Cuisines/dp/0060012781"
+  date: "2018/08"
+  place: "xian_marriott"
+  state: "past"
 
 - id: "macgregor2010objects"
   name: "A History of the World in 100 Objects"
