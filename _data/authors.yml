@@ -10,6 +10,9 @@ carolines:
   name: 'Caroline Suen'
   website: 'http://carolinesuen.com/'
 
+christys:
+  name: 'Christy Sauper'
+
 cristiand:
   name: 'Cristian Danescu-Niculescu-Mizil'
   website: 'http://www.cs.cornell.edu/~cristian/'
@@ -37,6 +40,10 @@ nithumt:
 ravik:
   name: 'Ravi Kumar'
   website: 'https://sites.google.com/site/ravik53/'
+
+seant:
+  name: 'Sean Taylor'
+  website: 'https://seanjtaylor.com/'
 
 sujithr:
   name: 'Sujith Ravi'
