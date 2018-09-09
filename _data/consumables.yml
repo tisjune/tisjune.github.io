@@ -1,13 +1,21 @@
 ## present
 
+- id: "beard2016spqr"
+  name: "SPQR: A History of Ancient Rome"
+  author: "Mary Beard"
+  link: "https://www.amazon.com/SPQR-History-Ancient-Mary-Beard/dp/1631492225"
+  date: "2018/09"
+  state: "present"
+
+## past
+
 - id: "solnit2001wanderlust"
   name: "Wanderlust: A History of Walking"
   author: "Rebecca Solnit"
   link: "https://www.amazon.com/Wanderlust-History-Walking-Rebecca-Solnit/dp/0140286012"
-  date: "2018/08"
-  state: "present"
-
-## past
+  date: "2018/09"
+  place: "ithaca_0909"
+  state: "past"
 
 - id: "bourdain2002tour"
   name: "A Cook's Tour"
