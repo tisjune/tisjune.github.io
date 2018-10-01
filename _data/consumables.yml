@@ -1,13 +1,35 @@
 ## present
 
+- id: "bernstein1974president"
+  name: "All the President's Men"
+  author: "Carl Bernstein & Bob Woodward"
+  link: "https://www.amazon.com/All-Presidents-Men-Bob-Woodward/dp/1476770514"
+  date: "2018/10"
+  state: "present"
+
+- id: "mann2018wizard"
+  name: "The Wizard and the Prophet"
+  author: "Charles Mann"
+  link: "https://www.amazon.com/Wizard-Prophet-Remarkable-Scientists-Tomorrows/dp/0307961699"
+  date: "2018/10"
+  state: "present"
+
+- id: "styron1992darkness"
+  name: "Darkness Visible"
+  author: "William Styron"
+  link: "https://www.amazon.com/Darkness-Visible-Madness-William-Styron/dp/0679736395"
+  date: "2018/10"
+  state: "present"
+
+## past
+
 - id: "beard2016spqr"
   name: "SPQR: A History of Ancient Rome"
   author: "Mary Beard"
   link: "https://www.amazon.com/SPQR-History-Ancient-Mary-Beard/dp/1631492225"
   date: "2018/09"
-  state: "present"
-
-## past
+  place: "abraco"
+  state: "past"
 
 - id: "solnit2001wanderlust"
   name: "Wanderlust: A History of Walking"
