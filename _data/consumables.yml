@@ -14,14 +14,16 @@
   date: "2018/10"
   state: "present"
 
+
+
+## past
+
 - id: "styron1992darkness"
   name: "Darkness Visible"
   author: "William Styron"
   link: "https://www.amazon.com/Darkness-Visible-Madness-William-Styron/dp/0679736395"
   date: "2018/10"
-  state: "present"
-
-## past
+  state: "past"
 
 - id: "beard2016spqr"
   name: "SPQR: A History of Ancient Rome"
