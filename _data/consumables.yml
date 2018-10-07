@@ -1,11 +1,6 @@
 ## present
 
-- id: "bernstein1974president"
-  name: "All the President's Men"
-  author: "Carl Bernstein & Bob Woodward"
-  link: "https://www.amazon.com/All-Presidents-Men-Bob-Woodward/dp/1476770514"
-  date: "2018/10"
-  state: "present"
+
 
 - id: "mann2018wizard"
   name: "The Wizard and the Prophet"
@@ -17,6 +12,14 @@
 
 
 ## past
+
+- id: "bernstein1974president"
+  name: "All the President's Men"
+  author: "Carl Bernstein & Bob Woodward"
+  link: "https://www.amazon.com/All-Presidents-Men-Bob-Woodward/dp/1476770514"
+  date: "2018/10"
+  place: "abraco"
+  state: "past"
 
 - id: "styron1992darkness"
   name: "Darkness Visible"
