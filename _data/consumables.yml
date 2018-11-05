@@ -1,17 +1,39 @@
 ## present
 
 
+- id: "gibson1984neuromancer"
+  name: "Neuromancer"
+  author: "William Gibson"
+  link: "https://g.co/kgs/HhRCy1"
+  date: "2018/11"
+  state: "present"
+
+- id: "ste1939wind"
+  name: "Wind, Sand and Stars"
+  author: "Antoine de Saint-Exupéry"
+  link: "https://g.co/kgs/om6Ljc"
+  date: "2018/11"
+  state: "present"
+
+- id: "heilbroner1953worldly"
+  name: "The Worldy Philosophers"
+  author: "Robert Heilbroner"
+  link: "https://g.co/kgs/4QDtiS"
+  date: "2018/11"
+  state: "present"
+
+
+
+
+## past
 
 - id: "mann2018wizard"
   name: "The Wizard and the Prophet"
   author: "Charles Mann"
   link: "https://www.amazon.com/Wizard-Prophet-Remarkable-Scientists-Tomorrows/dp/0307961699"
   date: "2018/10"
-  state: "present"
-
-
-
-## past
+  state: "past"
+  place: "gimme"
 
 - id: "bernstein1974president"
   name: "All the President's Men"
