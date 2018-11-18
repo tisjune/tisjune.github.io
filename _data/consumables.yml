@@ -1,19 +1,6 @@
 ## present
 
 
-- id: "gibson1984neuromancer"
-  name: "Neuromancer"
-  author: "William Gibson"
-  link: "https://g.co/kgs/HhRCy1"
-  date: "2018/11"
-  state: "present"
-
-- id: "ste1939wind"
-  name: "Wind, Sand and Stars"
-  author: "Antoine de Saint-Exupéry"
-  link: "https://g.co/kgs/om6Ljc"
-  date: "2018/11"
-  state: "present"
 
 - id: "heilbroner1953worldly"
   name: "The Worldy Philosophers"
@@ -26,6 +13,23 @@
 
 
 ## past
+
+
+- id: "gibson1984neuromancer"
+  name: "Neuromancer"
+  author: "William Gibson"
+  link: "https://g.co/kgs/HhRCy1"
+  date: "2018/11"
+  state: "past"
+  place: "grounded"
+
+- id: "ste1939wind"
+  name: "Wind, Sand and Stars"
+  author: "Antoine de Saint-Exupéry"
+  link: "https://g.co/kgs/om6Ljc"
+  date: "2018/11"
+  state: "past"
+  place: "devocion"
 
 - id: "mann2018wizard"
   name: "The Wizard and the Prophet"
