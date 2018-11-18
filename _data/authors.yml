@@ -11,7 +11,8 @@ carolines:
   website: 'http://carolinesuen.com/'
 
 christys:
-  name: 'Christy Sauper'
+  name: 'Christina Sauper'
+  website: 'https://research.fb.com/people/sauper-christy/'
 
 cristiand:
   name: 'Cristian Danescu-Niculescu-Mizil'
@@ -26,6 +27,7 @@ dariot:
 
 jonathanc:
   name: 'Jonathan P. Chang'
+  website: 'http://www.cs.cornell.edu/~jpchang/'
 
 jurel:
   name: 'Jure Leskovec'
@@ -42,7 +44,7 @@ ravik:
   website: 'https://sites.google.com/site/ravik53/'
 
 seant:
-  name: 'Sean Taylor'
+  name: 'Sean J. Taylor'
   website: 'https://seanjtaylor.com/'
 
 sujithr:
