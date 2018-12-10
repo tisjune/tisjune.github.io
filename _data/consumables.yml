@@ -1,19 +1,42 @@
 ## present
+- id: "bach1722wtk1csharpmaj"
+  name: "Prelude and Fugue in C# major, BWV 848"
+  author: "Johann Sebastian Bach"
+  link: "https://open.spotify.com/track/3x0jma6mENFW0DD4cNp3O8?si=D4aiRW_nSP6FcqmfLYczyw"
+  date: "2018/04"
+  state: "present"
+
+- id: "pullman2012tales"
+  name: "Fairy Tales from the Brothers Grimm"
+  author: "Philip Pullman"
+  link: "https://www.amazon.com/Fairy-Tales-Brothers-Grimm-English/dp/067002497X"
+  date: "2018/12"
+  state: "present"
 
 
+- id: "wilson2018odyssey"
+  name: "The Odyssey"
+  author: "Homer, translated by Emily Wilson"
+  link: "https://www.amazon.com/Odyssey-Homer/dp/0393089053"
+  date: "2018/12"
+  state: "present"
 
+- id: "harari2011sapiens"
+  name: "Sapiens: A Brief History of Humankind"
+  author: "Yuval Noah Harari"
+  link: "https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316117/"
+  date: "2018/12"
+  state: "present"
+
+
+## past
 - id: "heilbroner1953worldly"
   name: "The Worldly Philosophers"
   author: "Robert Heilbroner"
   link: "https://g.co/kgs/4QDtiS"
-  date: "2018/11"
-  state: "present"
-
-
-
-
-## past
-
+  date: "2018/12"
+  state: "past"
+  place: "abraco"
 
 - id: "gibson1984neuromancer"
   name: "Neuromancer"
@@ -435,12 +458,7 @@
   date: "2018/01"
   state: "parens"
 
-- id: "bach1722wtk1csharpmaj"
-  name: "Prelude and Fugue in C# major, BWV 848"
-  author: "Johann Sebastian Bach"
-  link: "https://open.spotify.com/track/3x0jma6mENFW0DD4cNp3O8?si=D4aiRW_nSP6FcqmfLYczyw"
-  date: "2018/04"
-  state: "parens"
+
 
 - id: "angrist2008harmless"
   name: "Mostly Harmless Econometrics"
