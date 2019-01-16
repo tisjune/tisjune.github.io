@@ -1,3 +1,11 @@
+snowdrift:
+  name: "Snowdrift Cafe"
+  maploc: "https://goo.gl/maps/19iZ2JSbxQ62"
+
+beantree:
+  name: "Bean Tree Cafe"
+  maploc: "https://goo.gl/maps/D5x9KrRoopp"
+
 grounded:
   name: "Grounded Coffee House"
   maploc: "https://goo.gl/maps/RHVLpqNkAw82"
