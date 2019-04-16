@@ -7,6 +7,21 @@
   date: "2019/03"
   state: "present"
 
+- id: "turner2008cyberculture"
+  name: "From Counterculture to Cyberculture"
+  author: "Fred Turner"
+  link: "https://www.amazon.com/Counterculture-Cyberculture-Stewart-Network-Utopianism/dp/0226817423"
+  date: "2019/04"
+  state: "present"
+
+- id: "manaugh2016burglar"
+  name: "A Burglar's Guide to the City"
+  author: "Geoff Manaugh"
+  link: "https://www.amazon.com/Burglars-Guide-City-Geoff-Manaugh/dp/0374117268"
+  date: "2019/04"
+  state: "present"
+
+
 ## past
 
 
