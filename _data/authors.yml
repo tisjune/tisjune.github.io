@@ -10,6 +10,10 @@ carolines:
   name: 'Caroline Suen'
   website: 'http://carolinesuen.com/'
 
+christinem:
+  name: 'Christine Morrison'
+  website: 'https://www.crisistextline.org/'
+
 christys:
   name: 'Christina Sauper'
   website: 'https://research.fb.com/people/sauper-christy/'
@@ -24,6 +28,11 @@ danj:
 
 dariot:
   name: 'Dario Taraborelli'
+  website: 'http://nitens.org/taraborelli/home'
+
+jaclynw:
+  name: 'Jaclyn Weiser'
+  website: 'https://www.crisistextline.org/'
 
 jonathanc:
   name: 'Jonathan P. Chang'
@@ -35,13 +44,19 @@ jurel:
 
 lucasd:
   name: 'Lucas Dixon'
+  website: 'https://jigsaw.google.com/'
 
 nithumt:
-  name: Nithum Thain
+  name: 'Nithum Thain'
+  website: 'https://ai.google/research/people/105662'
 
 ravik:
   name: 'Ravi Kumar'
   website: 'https://sites.google.com/site/ravik53/'
+
+robertf:
+  name: 'Robert Filbin'
+  website: 'https://www.crisistextline.org/'
 
 seant:
   name: 'Sean J. Taylor'
@@ -57,7 +72,8 @@ vladn:
 
 willh:
   name: 'William L. Hamilton'
-  website: 'https://stanford.edu/~wleif/'
+  website: 'https://williamleif.github.io/'
 
 yiqingh:
   name: 'Yiqing Hua'
+  website: 'http://yiqing-hua.com/'

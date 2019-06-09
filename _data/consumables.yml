@@ -1,12 +1,5 @@
 ## present
 
-- id: "calvino1976cosmicomics"
-  name: "Cosmicomics"
-  author: "Italo Calvino"
-  link: "https://www.amazon.com/Complete-Cosmicomics-Italo-Calvino/dp/0544577876"
-  date: "2019/03"
-  state: "present"
-
 - id: "turner2008cyberculture"
   name: "From Counterculture to Cyberculture"
   author: "Fred Turner"
@@ -23,6 +16,14 @@
 
 
 ## past
+
+- id: "calvino1976cosmicomics"
+  name: "Cosmicomics"
+  author: "Italo Calvino"
+  link: "https://www.amazon.com/Complete-Cosmicomics-Italo-Calvino/dp/0544577876"
+  date: "2019/05"
+  state: "past"
+  place: "peoples"
 
 
 - id: "schelling1978micromotives"
