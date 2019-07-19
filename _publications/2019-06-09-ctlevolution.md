@@ -1,6 +1,7 @@
 ---
 layout: publication
-title: "The Linguistic Development of Mental Health Counselors"
+title: "Finding Your Voice: The Linguistic Development of Mental Health Counselors"
+website: "http://www.cs.cornell.edu/~cristian/Finding_your_voice__linguistic_development.html" 
 authors:
   - { id: 'justinez', tag: '' }
   - { id: 'robertf', tag: '' }

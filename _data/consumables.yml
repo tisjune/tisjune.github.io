@@ -17,6 +17,22 @@
 
 ## past
 
+- id: "caro2019working"
+  name: "Working"
+  author: "Robert Caro"
+  link: "https://g.co/kgs/WbY3n6"
+  date: "2019/07"
+  state: "past"
+  place: "vifwinebar"
+
+- id: "morton1980vienna"
+  name: "A Nervous Splendor: Vienna 1888-1889"
+  author: "Frederic Morton"
+  link: "https://g.co/kgs/pG3xv4"
+  date: "2019/06"
+  state: "past"
+  place: "fremontcoffee"
+
 - id: "calvino1976cosmicomics"
   name: "Cosmicomics"
   author: "Italo Calvino"

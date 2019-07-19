@@ -1,3 +1,11 @@
+vifwinebar:
+  name: "Vif Wine|Coffee"
+  maploc: "https://goo.gl/maps/Bzb4RK4CHjzXXqge8"
+
+fremontcoffee:
+  name: "Fremont Coffee Company"
+  maploc: "https://goo.gl/maps/NuHVVAmbJDfcGu5S9"
+
 peoples:
   name: "People's Cafe"
   maploc: "https://goo.gl/maps/PUtaVvBkVEFtSH6K7"
