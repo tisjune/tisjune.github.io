@@ -8,5 +8,5 @@ authors:
   - { id: 'christinem', tag: '' }
   - { id: 'jaclynw', tag: '' }
   - { id: 'cristiand', tag: '' }
-venue: Proceedings of ACL, 2019. To appear.
+venue: Proceedings of ACL, 2019.
 ---

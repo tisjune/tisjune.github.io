@@ -16,7 +16,7 @@ fakeemail: jz727@school.edu
 # Build settings
 markdown: kramdown
 gatesloc: "https://goo.gl/maps/oftxSY4cFRm"
-officeloc: 237 Gates
+officeloc: 214 Gates
 include: ["_publications"]
 collections:
   - publications
