@@ -14,15 +14,15 @@
   date: "2019/04"
   state: "present"
 
-- id: "manaugh2016burglar"
-  name: "A Burglar's Guide to the City"
-  author: "Geoff Manaugh"
-  link: "https://www.amazon.com/Burglars-Guide-City-Geoff-Manaugh/dp/0374117268"
-  date: "2019/04"
-  state: "present"
-
-
 ## past
+
+- id: "lecarre1963leamas"
+  name: "The Spy Who Came in from the Cold"
+  author: "John le Carré"
+  link: "https://g.co/kgs/4LyjoF"
+  date: "2019/11"
+  state: "past"
+  place: "ithacabakery"
 
 - id: "caro2019working"
   name: "Working"
