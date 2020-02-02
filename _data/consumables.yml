@@ -1,12 +1,5 @@
 ## present
 
-- id: "clark1996language"
-  name: "Using Language"
-  author: "Herbert Clark"
-  link: "https://g.co/kgs/2vBs39"
-  date: "2019/09"
-  state: "present"
-
 - id: "turner2008cyberculture"
   name: "From Counterculture to Cyberculture"
   author: "Fred Turner"
@@ -16,6 +9,38 @@
 
 ## past
 
+- id: "lecarre1974tailor"
+  name: "Tinker Tailor Soldier Spy"
+  author: "John le Carré"
+  link: "https://g.co/kgs/bG8Rd5"
+  date: "2020/02"
+  state: "past"
+  place: "stumptown"
+
+- id: "jin2019libai"
+  name: "The Banished Immortal: A Life of Li Bai"
+  author: "Ha Jin"
+  link: "https://g.co/kgs/ABMNnW"
+  date: "2020/02"
+  state: "past"
+  place: "mcnally_jackson"
+
+- id: "lecarre1965avery"
+  name: "The Looking Glass War"
+  author: "John le Carré"
+  link: "https://g.co/kgs/eS225Y"
+  date: "2020/01"
+  state: "past"
+  place: "ithacabakery"
+
+- id: "liu2006threebody"
+  name: "The Three-Body Problem"
+  author: "Cixin Liu"
+  link: "https://www.amazon.com/Three-Body-Problem-Cixin-Liu/dp/0765382032"
+  date: "2019/12"
+  state: "past"
+  place: "silverstar"
+
 - id: "lecarre1963leamas"
   name: "The Spy Who Came in from the Cold"
   author: "John le Carré"
@@ -23,6 +48,14 @@
   date: "2019/11"
   state: "past"
   place: "ithacabakery"
+
+- id: "clark1996language"
+  name: "Using Language"
+  author: "Herbert Clark"
+  link: "https://g.co/kgs/2vBs39"
+  date: "2019/11"
+  state: "past"
+  place: "gimme"
 
 - id: "caro2019working"
   name: "Working"
@@ -556,12 +589,7 @@
   date: "2017"
   state: "parens"
 
-- id: "liu2006threebody"
-  name: "The Three-Body Problem"
-  author: "Cixin Liu"
-  link: "https://www.amazon.com/Three-Body-Problem-Cixin-Liu/dp/0765382032"
-  date: "2016"
-  state: "parens"
+
 
 - id: "beethoven1798sonatadmaj"
   name: "Sonata No. 7 in D Major, Op. 10, No. 3"

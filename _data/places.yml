@@ -1,3 +1,11 @@
+stumptown:
+  name: "Stumptown Coffee Roasters"
+  maploc: "https://goo.gl/maps/bx8Gx9LFAFYsjx3f7"
+
+silverstar:
+  name: "SilverStar Mountain Resort"
+  maploc: "https://goo.gl/maps/whnGc8B82c5Gwh5F7"
+
 ithacabakery:
   name: "Ithaca Bakery"
   maploc: "https://goo.gl/maps/4sWa14QgnCGteYuR8"
