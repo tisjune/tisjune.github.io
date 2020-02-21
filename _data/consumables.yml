@@ -1,13 +1,35 @@
 ## present
 
+- id: "schiffrin1994discourse"
+  name: "Approaches to Discourse"
+  author: "Deborah Schiffrin"
+  link: "https://g.co/kgs/ddt4gw"
+  date: "2020/02"
+  state: "present"
+
+- id: "lakoff1980metaphors"
+  name: "Metaphors We Live By"
+  author: "George Lakoff & Mark Johnson"
+  link: "https://g.co/kgs/SRdmkr"
+  date: "2020/02"
+  state: "present"
+
+## past
+
+- id: "manaugh2016burglar"
+  name: "A Burglar's Guide to the City"
+  author: "Geoff Manaugh"
+  link: "https://g.co/kgs/1nVRWL"
+  date: "2020/02"
+  state: "past"
+
 - id: "turner2008cyberculture"
   name: "From Counterculture to Cyberculture"
   author: "Fred Turner"
   link: "https://www.amazon.com/Counterculture-Cyberculture-Stewart-Network-Utopianism/dp/0226817423"
-  date: "2019/04"
-  state: "present"
-
-## past
+  date: "2020/02"
+  state: "past"
+  place: "fineartslib"
 
 - id: "lecarre1974tailor"
   name: "Tinker Tailor Soldier Spy"
