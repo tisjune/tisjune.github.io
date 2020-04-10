@@ -30,9 +30,17 @@ dariot:
   name: 'Dario Taraborelli'
   website: 'http://nitens.org/taraborelli/home'
 
+erich:
+  name: 'Eric Horvitz'
+  website: 'http://erichorvitz.com/'
+
 jaclynw:
   name: 'Jaclyn Weiser'
   website: 'https://www.crisistextline.org/'
+
+jamiep:
+  name: 'James W. Pennebaker'
+  website: 'https://liberalarts.utexas.edu/psychology/faculty/pennebak'
 
 jonathanc:
   name: 'Jonathan P. Chang'
@@ -65,6 +73,10 @@ seant:
 sujithr:
   name: 'Sujith Ravi'
   website: 'http://www.sravi.org/'
+
+susand:
+  name: 'Susan T. Dumais'
+  website: 'http://susandumais.com/'
 
 vladn:
   name: 'Vlad Niculae'
