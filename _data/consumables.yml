@@ -1,6 +1,13 @@
 ## present
 ## I should redesign this to account for rereads and potential blog posts...
 
+- id: "lecarre1977schoolboy"
+  name: "The Honourable Schoolboy"
+  author: "John le Carré"
+  link: "https://g.co/kgs/DgzgoP"
+  date: "2020/05"
+  state: "present"
+
 - id: "schiffrin1994discourse"
   name: "Approaches to Discourse"
   author: "Deborah Schiffrin"
