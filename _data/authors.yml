@@ -2,9 +2,17 @@ justinez:
   name: 'Justine Zhang'
   website: 'http://tisjune.github.io/'
 
+andreww:
+  name: 'Andrew Z. Wang'
+  website: 'http://wanganzhou.com/'
+
 arthurs:
   name: 'Arthur Spirling'
   website: 'http://www.nyu.edu/projects/spirling/'  
+
+calebc:
+  name: 'Caleb Chiam'
+  website: 'https://github.com/calebchiam'
 
 carolines:
   name: 'Caroline Suen'
@@ -49,6 +57,10 @@ jonathanc:
 jurel:
   name: 'Jure Leskovec'
   website: 'https://cs.stanford.edu/people/jure/index.html'
+
+liyef:
+  name: 'Liye Fu'
+  website: 'http://www.cs.cornell.edu/~liye/'
 
 lucasd:
   name: 'Lucas Dixon'
