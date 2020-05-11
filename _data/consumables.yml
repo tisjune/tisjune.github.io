@@ -1,10 +1,17 @@
 ## present
 ## I should redesign this to account for rereads and potential blog posts...
 
-- id: "lecarre1977schoolboy"
-  name: "The Honourable Schoolboy"
+- id: "caro1974moses"
+  name: "The Power Broker"
+  author: "Robert Caro"
+  link: "https://g.co/kgs/Zj5TAL"
+  date: "2020/05"
+  state: "present"
+
+- id: "lecarre1979smiley"
+  name: "Smiley's People"
   author: "John le Carré"
-  link: "https://g.co/kgs/DgzgoP"
+  link: "https://g.co/kgs/dzKaQS"
   date: "2020/05"
   state: "present"
 
@@ -18,6 +25,13 @@
 
 
 ## past
+
+- id: "lecarre1977schoolboy"
+  name: "The Honourable Schoolboy"
+  author: "John le Carré"
+  link: "https://g.co/kgs/DgzgoP"
+  date: "2020/05"
+  state: "past"
 
 - id: "lakoff1980metaphors"
   name: "Metaphors We Live By"
