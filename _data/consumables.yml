@@ -8,11 +8,11 @@
   date: "2020/05"
   state: "present"
 
-- id: "lecarre1979smiley"
-  name: "Smiley's People"
-  author: "John le Carré"
-  link: "https://g.co/kgs/dzKaQS"
-  date: "2020/05"
+- id: "hernan2020causal"
+  name: "Causal Inference: What If?"
+  author: "Miguel Hernán & Jamie Robins"
+  link: "https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/"
+  date: "2020/07"
   state: "present"
 
 - id: "schiffrin1994discourse"
@@ -25,6 +25,13 @@
 
 
 ## past
+
+- id: "lecarre1979smiley"
+  name: "Smiley's People"
+  author: "John le Carré"
+  link: "https://g.co/kgs/dzKaQS"
+  date: "2020/06"
+  state: "past"
 
 - id: "lecarre1977schoolboy"
   name: "The Honourable Schoolboy"
