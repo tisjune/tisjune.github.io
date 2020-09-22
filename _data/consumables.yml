@@ -1,12 +1,7 @@
 ## present
 ## I should redesign this to account for rereads and potential blog posts...
 
-- id: "caro1974moses"
-  name: "The Power Broker"
-  author: "Robert Caro"
-  link: "https://g.co/kgs/Zj5TAL"
-  date: "2020/05"
-  state: "present"
+
 
 - id: "hernan2020causal"
   name: "Causal Inference: What If?"
@@ -15,12 +10,7 @@
   date: "2020/07"
   state: "present"
 
-- id: "schiffrin1994discourse"
-  name: "Approaches to Discourse"
-  author: "Deborah Schiffrin"
-  link: "https://g.co/kgs/ddt4gw"
-  date: "2020/02"
-  state: "present"
+
 
 - id: "lecarre1986pym"
   name: "A Perfect Spy"
@@ -30,6 +20,20 @@
   state: "present"
 
 ## past
+
+- id: "schiffrin1994discourse"
+  name: "Approaches to Discourse"
+  author: "Deborah Schiffrin"
+  link: "https://g.co/kgs/ddt4gw"
+  date: "2020/07"
+  state: "past"
+
+- id: "caro1974moses"
+  name: "The Power Broker"
+  author: "Robert Caro"
+  link: "https://g.co/kgs/Zj5TAL"
+  date: "2020/07"
+  state: "past"
 
 - id: "lecarre1979smiley"
   name: "Smiley's People"
