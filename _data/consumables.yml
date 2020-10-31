@@ -1,7 +1,12 @@
 ## present
 ## I should redesign this to account for rereads and potential blog posts...
 
-
+- id: "suchman2007hmr"
+  name: "Human-machine reconfigurations"
+  author: "Lucy Suchman"
+  link: "https://g.co/kgs/4mLkC7"
+  date: "2020/10"
+  state: "present"
 
 - id: "hernan2020causal"
   name: "Causal Inference: What If?"
