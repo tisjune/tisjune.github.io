@@ -6,5 +6,5 @@ authors:
   - { id: 'justinez', tag: '' }
   - { id: 'sendhilm', tag: '' }
   - { id: 'cristiand', tag: '' }
-venue: Proceedings of CSCW, 2020. To appear.
+venue: Proceedings of CSCW, 2020.
 ---
