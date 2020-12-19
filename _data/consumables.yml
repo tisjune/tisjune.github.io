@@ -2,7 +2,7 @@
 ## I should redesign this to account for rereads and potential blog posts...
 
 - id: "suchman2007hmr"
-  name: "Human-machine reconfigurations"
+  name: "Human-Machine Reconfigurations"
   author: "Lucy Suchman"
   link: "https://g.co/kgs/4mLkC7"
   date: "2020/10"
@@ -15,8 +15,6 @@
   date: "2020/07"
   state: "present"
 
-
-
 - id: "lecarre1986pym"
   name: "A Perfect Spy"
   author: "John le Carré"
@@ -25,6 +23,20 @@
   state: "present"
 
 ## past
+
+- id: "monk2005wittgenstein"
+  name: "How to Read Wittgenstein"
+  author: "Ray Monk"
+  link: "https://g.co/kgs/7axCk5"
+  date: "2020/12"
+  state: "past"
+
+- id: "goffman1956self"
+  name: "The Presentation of Self in Everyday Life"
+  author: "Erving Goffman"
+  link: "https://g.co/kgs/FyHwtM"
+  date: "2020/10"
+  state: "past"
 
 - id: "schiffrin1994discourse"
   name: "Approaches to Discourse"
@@ -634,8 +646,6 @@
   date: "2018/01"
   state: "parens"
 
-
-
 - id: "angrist2008harmless"
   name: "Mostly Harmless Econometrics"
   author: "Joshua Angrist & Jörn-Steffen Pischke"
@@ -656,8 +666,6 @@
   link: "https://open.spotify.com/track/2BEqMAOHcPeFguxQYQycel"
   date: "2017"
   state: "parens"
-
-
 
 - id: "beethoven1798sonatadmaj"
   name: "Sonata No. 7 in D Major, Op. 10, No. 3"
