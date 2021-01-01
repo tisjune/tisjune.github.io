@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Metaphors We Live By"
+title:  "Meaning containers and metaphor monocultures"
 date:   2021-01-01
 abstract: "On metaphors for language use."
 categories: blog
