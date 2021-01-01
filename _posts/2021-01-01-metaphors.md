@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Metaphors We Live By"
+date:   2021-01-01
+abstract: "On metaphors for language use."
+categories: blog
+---
+The last book I read in a coffee shop, in 2020, was [Metaphors We Live By](https://press.uchicago.edu/ucp/books/book/chicago/M/bo3637992.html), by George Lakoff and Mark Johnson, published 1980. It was zippy and fabulous and is in large part about the ways in which metaphors get naturalized into how we think about the world. Lakoff and Johnson argue that metaphors aren't inherently linguistic; rather, they're ways to structure our thoughts that happen to get surfaced in how we use language.
+
+One metaphor the book names is the CONDUIT metaphor for language use: that linguistic expressions are containers for meaning, and that speakers put ideas (OBJECTS) into words (CONTAINERS), sending them (along a CONDUIT) to hearers who take the objects out of the containers. This metaphor infuses into phrases we commonly use: "it's hard to _get_ that idea _across_", "it's difficult to _put_ my ideas _into_ words", and so forth. It also describes a common way we think about language, that words and sentences contain meanings, independent of context, speaker, or use. 
+
+Words indeed carry meanings with weight. That said, if you've ever pointed at things in the room in a conversation, or invoked inside jokes, you might wonder if these containers for meaning are somehow leaky or deficient or bound up in way more than we give them credit for. "Can we _unpack_ that?" is not simply a cue for hearers to take the meanings out of the boxes. Unpacking turns out to be a winding, generative, collaborative process; the description seems like an deliberate understatement. Quoting the book: 
+
+> When it really counts, meaning is almost never communicated according to the CONDUIT metaphor, that is, where one person transmits a fixed, clear proposition to another by means of expressions in a common language, where both parties  have all the relevant common knowledge, assumptions, values, etc. When the chips are down, meaning is **negotiated**: you slowly figure out what you have in common, what it is safe to talk about, how you can communicate unshared experience or create a shared vision. With enough flexibility in bending your world view and with luck, skill and charity, you may achieve some mutual understanding. 
+
+Metaphors matter when people have the power to concretely enact them. What the "all models are wrong but some are useful" quote hides is that some models are given life and naturalized as the best and only possible representation of the world, at the expense of others.
+
+> Communication theories based on the CONDUIT metaphor turn from the pathetic to the evil when applied indiscriminately on a large scale, say, in government surveillance or computerized files. There, what is most crucial for real understanding is almost never included, and it is assumed that the words in the file have meaning in themselves—disembodied, objective, understandable meaning. When a society lives by the CONDUIT metaphor on a large scale, misunderstanding, persecution, and much worse are the likely products.
+
+There's been several pieces in the NLP space in 2020 calling for the field to rethink how it approaches research on language use. It seems that we ought to think more carefully about what we consider to be achievements in "understanding" and how we talk about them, and that we should enrich our imaginations of what we consider to be good, illuminating, groundbreaking and ethical datasets and tasks. The thread I want to pull on in 2021 is the _beliefs_ we have about language use that have shaped the field of NLP. These beliefs will structure future work that purports to respond to those critical ones, and my worry is that if we don't interrogate them, our response will simply be to, [paraphrasing Lucy Suchman](https://www.lri.fr/~mbl/ENS/CSCW/2017/papers/Suchman-JCSCW94.pdf), "extend the scope of [NLP] while requiring little if any change to [its] organizing premises and practices." There's a big difference between aiming for better implementations of these beliefs, and taking seriously the seams between beliefs and the world, the human cost of these seams, and the implications these seams should have for those beliefs.
+
+Are we in a metaphor monoculture? How did we get here, why does that matter, and what's there to be done? 
