@@ -13,7 +13,7 @@ Words indeed carry meanings with weight. That said, if you've ever pointed at th
 
 > When it really counts, meaning is almost never communicated according to the CONDUIT metaphor, that is, where one person transmits a fixed, clear proposition to another by means of expressions in a common language, where both parties  have all the relevant common knowledge, assumptions, values, etc. When the chips are down, meaning is **negotiated**: you slowly figure out what you have in common, what it is safe to talk about, how you can communicate unshared experience or create a shared vision. With enough flexibility in bending your world view and with luck, skill and charity, you may achieve some mutual understanding. 
 
-Metaphors matter when people have the power to concretely enact them. What the "all models are wrong but some are useful" quote hides is that some models are given life as the best and only possible representation of the world, at the expense of others.
+Metaphors matter when people have the power to concretely enact them. The possibility unstated in the "all models are wrong but some are useful" quote is that some models could be given life as the best and only possible representation of the world, at the expense of others.
 
 > Communication theories based on the CONDUIT metaphor turn from the pathetic to the evil when applied indiscriminately on a large scale, say, in government surveillance or computerized files. There, what is most crucial for real understanding is almost never included, and it is assumed that the words in the file have meaning in themselves—disembodied, objective, understandable meaning. When a society lives by the CONDUIT metaphor on a large scale, misunderstanding, persecution, and much worse are the likely products.
 
