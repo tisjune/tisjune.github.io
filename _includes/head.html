@@ -19,3 +19,209 @@
 
 <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.min.css">
 </head>
+
+<!-- TWITTER CARD METATAGS -->
+
+<!-- IMAGE SIZE OPTION -->
+<
+META
+ 
+NAME
+="
+TWITTER:CARD
+" 
+CONTENT
+="
+SUMMARY_LARGE_IMAGE
+"
+>
+
+<!-- TWITTER USERNAME -->
+<
+META
+ 
+NAME
+="
+TWITTER:SITE
+" 
+CONTENT
+="
+@TWITTERUSERNAME
+"
+>
+
+<!-- PAGE TITLE -->
+<
+META
+ 
+NAME
+="
+TWITTER:TITLE
+" 
+CONTENT
+="
+{{ PAGE.TITLE }}
+"
+>
+
+<!-- PAGE DESCRIPTION -->
+{% if page.description %}
+  
+<
+META
+ 
+NAME
+="
+TWITTER:DESCRIPTION
+" 
+CONTENT
+="
+{{ PAGE.DESCRIPTION }}
+"
+>
+{% else %}
+  
+<
+META
+ 
+NAME
+="
+TWITTER:DESCRIPTION
+" 
+CONTENT
+="
+DEFAULT PAGE DESCRIPTION
+"
+>
+{% endif %}
+
+<!-- IMAGE PATH -->
+{% if page.image %}
+  
+<
+META
+ 
+NAME
+="
+TWITTER:IMAGE
+" 
+CONTENT
+="
+{{ SITE.URL }}/IMAGES/{{ PAGE.IMAGE }}
+"
+>
+  
+<
+META
+ 
+NAME
+="
+TWITTER:IMAGE:ALT
+" 
+CONTENT
+="
+{{ PAGE.IMAGE-ALT }}
+"
+>
+{% else %}
+  
+<
+META
+ 
+NAME
+="
+TWITTER:IMAGE
+" 
+CONTENT
+="
+{{ SITE.URL }}/IMAGES/DEFAULT.PNG
+"
+>
+  
+<
+META
+ 
+NAME
+="
+TWITTER:IMAGE:ALT
+" 
+CONTENT
+="
+DEFAULT IMAGE ALT TEXT
+"
+>
+{% endif %}
+
+<!-- COMPACT TWITTER CARD METATAGS -->
+<
+META
+ 
+NAME
+="
+TWITTER:CARD
+" 
+CONTENT
+="
+SUMMARY_LARGE_IMAGE
+"
+>
+<
+META
+ 
+NAME
+="
+TWITTER:SITE
+" 
+CONTENT
+="
+@TWITTERUSERNAME
+"
+>
+<
+META
+ 
+NAME
+="
+TWITTER:TITLE
+" 
+CONTENT
+="
+{{ PAGE.TITLE }}
+"
+>
+<
+META
+ 
+NAME
+="
+TWITTER:DESCRIPTION
+" 
+CONTENT
+="
+{% IF PAGE.DESCRIPTION %}{{ PAGE.DESCRIPTION }}{% ELSE %}DEFAULT PAGE DESCRIPTION{% ENDIF %}
+"
+>
+<
+META
+ 
+NAME
+="
+TWITTER:IMAGE
+" 
+CONTENT
+="
+{% IF PAGE.IMAGE %}{{ SITE.URL }}/IMAGES/{{ PAGE.IMAGE }}{% ELSE %}{{ SITE.URL }}/IMAGES/DEFAULT.PNG{% ENDIF %}
+"
+>
+<
+META
+ 
+NAME
+="
+TWITTER:IMAGE:ALT
+" 
+CONTENT
+="
+{% IF PAGE.IMAGE-ALT %}{{ PAGE.IMAGE-ALT }}{% ELSE %}DEFAULT IMAGE ALT TEXT{% ENDIF %}
+"
+>
