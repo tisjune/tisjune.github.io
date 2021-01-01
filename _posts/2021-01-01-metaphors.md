@@ -3,7 +3,6 @@ layout: post
 title:  "Metaphors We Live By"
 date:   2021-01-01
 abstract: "On metaphors for language use."
-categories: blog
 ---
 The last book I read in a coffee shop, in 2020, was [Metaphors We Live By](https://press.uchicago.edu/ucp/books/book/chicago/M/bo3637992.html), by George Lakoff and Mark Johnson, published 1980. It was zippy and fabulous and is in large part about the ways in which metaphors get naturalized into how we think about the world. Lakoff and Johnson argue that metaphors aren't inherently linguistic; rather, they're ways to structure our thoughts that happen to get surfaced in how we use language.
 
