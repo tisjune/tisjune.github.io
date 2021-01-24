@@ -1,13 +1,6 @@
 ## present
 ## I should redesign this to account for rereads and potential blog posts...
 
-- id: "suchman2007hmr"
-  name: "Human-Machine Reconfigurations"
-  author: "Lucy Suchman"
-  link: "https://g.co/kgs/4mLkC7"
-  date: "2020/10"
-  state: "present"
-
 - id: "hernan2020causal"
   name: "Causal Inference: What If?"
   author: "Miguel Hernán & Jamie Robins"
@@ -15,14 +8,22 @@
   date: "2020/07"
   state: "present"
 
+## past
+
 - id: "lecarre1986pym"
   name: "A Perfect Spy"
   author: "John le Carré"
   link: "https://g.co/kgs/pqfv9q"
-  date: "2020/07"
-  state: "present"
+  date: "2021/01"
+  state: "past"
+  place: "emory"
 
-## past
+- id: "suchman2007hmr"
+  name: "Human-Machine Reconfigurations"
+  author: "Lucy Suchman"
+  link: "https://g.co/kgs/4mLkC7"
+  date: "2021/01"
+  state: "past"
 
 - id: "monk2005wittgenstein"
   name: "How to Read Wittgenstein"
