@@ -8,6 +8,13 @@
   date: "2020/07"
   state: "present"
 
+- id: "lecarre2016pigeon"
+  name: "The Pigeon Tunnel: Stories from My Life"
+  author: "John le Carré"
+  link: "https://g.co/kgs/d7bTDj"
+  date: "2021/01"
+  state: "present"
+
 ## past
 
 - id: "lecarre1986pym"
@@ -24,6 +31,7 @@
   link: "https://g.co/kgs/4mLkC7"
   date: "2021/01"
   state: "past"
+  place: "epfl"
 
 - id: "monk2005wittgenstein"
   name: "How to Read Wittgenstein"
