@@ -7,11 +7,11 @@ categories: blog
 ---
 I was drawn to this description of Gail Jefferson, in the introduction of [Talking About Troubles in Conversations](https://www.mcnallyjackson.com/book/9780199937349), on reviewing. Text by Drew, Heritage, Lerner and Pomerantz; paragraph breaks mine:
 
-"As a rule, she did not recommend rejecting papers; she would recommend "revise and resubmit", always supported by incisive comments and suggestions that were often longer than the submitted paper and that managed to find some kernel or some gem of a phenomenon among an author's possibly inchoate efforts. 
-
-She was selfless in her commitment to finding what was valuable and perceptive in a draft, what was unnecessary or misguided or just plain wrong, what was well grounded and what was unsupported by empirical evidence, what needed to be expressed more precisely, and how other evidence needed to be considered, and how a paper might be better shaped to the author's project. 
-
-Her efforts would be considered "collegial" nowadays, but that term is too managerial to capture adequately the warmth and conviction she brought to feedback and reviewing, for the sake of the work. Thus did Erving Goffman [write] about the reviews of a [paper](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.183.790&rep=rep1&type=pdf) he had submitted [that, while not entirely critical of Jefferson's line of work, did point out an apparent gap]: "[...] her eleven pages of specific suggestions, however, were really quite remarkable, a product of a closer and more loving reading than anyone deserves.""
+> As a rule, she did not recommend rejecting papers; she would recommend "revise and resubmit", always supported by incisive comments and suggestions that were often longer than the submitted paper and that managed to find some kernel or some gem of a phenomenon among an author's possibly inchoate efforts. 
+>
+> She was selfless in her commitment to finding what was valuable and perceptive in a draft, what was unnecessary or misguided or just plain wrong, what was well grounded and what was unsupported by empirical evidence, what needed to be expressed more precisely, and how other evidence needed to be considered, and how a paper might be better shaped to the author's project. 
+> 
+> Her efforts would be considered "collegial" nowadays, but that term is too managerial to capture adequately the warmth and conviction she brought to feedback and reviewing, for the sake of the work. Thus did Erving Goffman [write] about the reviews of a [paper](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.183.790&rep=rep1&type=pdf) he had submitted [that, while not entirely critical of Jefferson's line of work, did point out an apparent gap]: "[...] her eleven pages of specific suggestions, however, were really quite remarkable, a product of a closer and more loving reading than anyone deserves."
 
 Some venues (like CHI) have a free-entry field prompting you to write names of people you think would be good fits to review your work. Can I name dead people?—you might wonder. (I'd picked up the "Troubles" book after randomly stumbling upon this rather exceptional [obituary](https://linguistlist.org/issues/19/19-1486/).)
 
