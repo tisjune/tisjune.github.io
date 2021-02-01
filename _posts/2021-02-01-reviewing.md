@@ -5,7 +5,7 @@ date:   2021-02-01
 description: Ideas and caveats around writing good academic reviews.
 categories: blog
 ---
-I was drawn to this description of Gail Jefferson, in the introduction of [Talking About Troubles in Conversations](https://www.mcnallyjackson.com/book/9780199937349), on reviewing. 
+I was drawn to this description of Gail Jefferson, in the introduction of [Talking About Troubles in Conversations](https://www.mcnallyjackson.com/book/9780199937349), on reviewing academic papers. 
 
 Text by Drew, Heritage, Lerner and Pomerantz; paragraph breaks mine:
 
