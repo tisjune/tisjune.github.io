@@ -2,7 +2,7 @@
 layout: post
 title:  "Gail Jefferson and generous reviewing"
 date:   2021-02-02
-description: Thoughts about writing good academic reviews.
+description: Thoughts on writing good academic reviews.
 categories: blog
 ---
 I was drawn to this description of Gail Jefferson, in the introduction of [Talking About Troubles in Conversations](https://www.mcnallyjackson.com/book/9780199937349), on reviewing academic papers. 
