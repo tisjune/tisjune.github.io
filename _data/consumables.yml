@@ -17,14 +17,6 @@
 
 ## past
 
-- id: "lecarre1986pym"
-  name: "A Perfect Spy"
-  author: "John le Carré"
-  link: "https://g.co/kgs/pqfv9q"
-  date: "2021/01"
-  state: "past"
-  place: "emory"
-
 - id: "suchman2007hmr"
   name: "Human-Machine Reconfigurations"
   author: "Lucy Suchman"
@@ -32,6 +24,14 @@
   date: "2021/01"
   state: "past"
   place: "epfl"
+
+  - id: "lecarre1986pym"
+  name: "A Perfect Spy"
+  author: "John le Carré"
+  link: "https://g.co/kgs/pqfv9q"
+  date: "2021/01"
+  state: "past"
+  place: "emory"
 
 - id: "monk2005wittgenstein"
   name: "How to Read Wittgenstein"
