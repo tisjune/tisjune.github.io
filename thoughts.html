@@ -13,8 +13,9 @@ permalink: /thoughts/
 	    {% for post in site.posts %}
 	      <li>
 	      	<a href="{{ post.url }}"><strong>{{ post.title }}</strong></a>
-	      	{{ post.date | date_to_long_string }}
-	      	<i>{{ post.description }}</i>
+	      	<p>{{ post.date | date_to_long_string }}
+      		<br><i>{{ post.description }}</i></p>
+	      	
 	      </li>
 	    {% endfor %}
 	  </ul> 
