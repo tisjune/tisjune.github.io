@@ -10,8 +10,8 @@
   state: "present"
 
 - id: "sacks1964lectures"
-  name: "Harvey Sacks - Lectures, 1964-1965"
-  author: "Harvey Sacks, transcribed by Gail Jefferson"
+  name: "Harvey Sacks-Lectures, 1964-1965"
+  author: "transcribed by Gail Jefferson"
   link: "https://www.jstor.org/stable/20009056?seq=1"
   date: "2021/02"
   state: "present"
