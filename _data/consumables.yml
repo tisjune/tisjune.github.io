@@ -1,6 +1,28 @@
 ## present
 ## I should redesign this to account for rereads and potential blog posts...
 
+
+- id: "ahmed2017feminist"
+  name: "Living a Feminist Life"
+  author: "Sara Ahmed"
+  link: "https://www.dukeupress.edu/living-a-feminist-life"
+  date: "2021/02"
+  state: "present"
+
+- id: "sacks1964lectures"
+  name: "Harvey Sacks - Lectures, 1964-1965"
+  author: "Harvey Sacks, transcribed by Gail Jefferson"
+  link: "https://www.jstor.org/stable/20009056?seq=1"
+  date: "2021/02"
+  state: "present"
+
+- id: "leguin1969hand"
+  name: "The Left Hand of Darkness"
+  author: "Ursula K. Le Guin"
+  link: "https://g.co/kgs/NERBR9"
+  date: "2021/02"
+  state: "present"
+
 - id: "hernan2020causal"
   name: "Causal Inference: What If?"
   author: "Miguel Hernán & Jamie Robins"
@@ -8,14 +30,19 @@
   date: "2020/07"
   state: "present"
 
+
+
+## past
+
+
 - id: "lecarre2016pigeon"
   name: "The Pigeon Tunnel: Stories from My Life"
   author: "John le Carré"
   link: "https://g.co/kgs/d7bTDj"
   date: "2021/01"
-  state: "present"
+  state: "past"
+  place: "neu"
 
-## past
 
 - id: "suchman2007hmr"
   name: "Human-Machine Reconfigurations"
