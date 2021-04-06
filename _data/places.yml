@@ -1,3 +1,23 @@
+umich:
+  name: "University of Michigan"
+  maploc: "https://goo.gl/maps/qp5FDtL6nGEecjQM7"
+
+cmu:
+  name: "Carnegie Mellon University"
+  maploc: "https://goo.gl/maps/SwBYtwxMkKB15Yqu7"
+
+mpi:
+  name: "Max Planck Institute for Software Systems"
+  maploc: "https://goo.gl/maps/wrdzq2ELuVnbrvdbA"
+
+wustl:
+  name: "Washington University in St. Louis"
+  maploc: "https://goo.gl/maps/jvczWTurtaGa8vqC7"
+
+uchi:
+  name: "University of Chicago"
+  maploc: "https://goo.gl/maps/9o4ytS6DkQc9vhwa8"
+
 neu:
   name: "Northeastern University"
   maploc: "https://goo.gl/maps/HTsZJNrbLCxuiGfY7"
