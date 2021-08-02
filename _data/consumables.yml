@@ -1,11 +1,19 @@
 ## present
 ## I should redesign this to account for rereads and potential blog posts...
 
-- id: "sacks1964lectures"
-  name: "Harvey Sacks-Lectures, 1964-1965"
-  author: "transcribed by Gail Jefferson"
-  link: "https://www.jstor.org/stable/20009056?seq=1"
-  date: "2021/02"
+
+- id: "liu2016paper"
+  name: "The Paper Menagerie and Other Stories"
+  author: "Ken Liu"
+  link: "https://bookshop.org/books/the-paper-menagerie-and-other-stories/9781481424363"
+  date: "2021/08"
+  state: "present"
+
+- id: "lecarre1983drummer"
+  name: "The Little Drummer Girl"
+  author: "John le Carré"
+  link: "https://bookshop.org/books/the-little-drummer-girl-9780143119746/9780143119746?aid=11005&listref=the-best-of-john-le-carre"
+  date: "2021/08"
   state: "present"
 
 - id: "hernan2020causal"
@@ -16,6 +24,30 @@
   state: "present"
 
 ## past
+
+- id: "borges2004aleph"
+  name: "The Aleph and Other Stories"
+  author: "Jorge Luis Borges"
+  link: "https://bookshop.org/books/the-aleph-and-other-stories/9780142437889"
+  date: "2021/07"
+  state: "past"
+  place: "ucberkeley"
+
+- id: "calvino1988memos"
+  name: "Six Memos for the Next Millennium"
+  author: "Italo Calvino"
+  link: "https://bookshop.org/books/six-memos-for-the-next-millennium/9780544146679"
+  date: "2021/07"
+  state: "past"
+  place: "houndandmare"
+
+- id: "sacks1964lectures"
+  name: "Harvey Sacks-Lectures, 1964-1965"
+  author: "transcribed by Gail Jefferson"
+  link: "https://www.jstor.org/stable/20009056?seq=1"
+  date: "2021/02"
+  state: "past"
+  place: "umich"
 
 - id: "liu2020sv"
   name: "Abolish Silicon Valley: How to Liberate Technology from Capitalism"
