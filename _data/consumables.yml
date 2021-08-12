@@ -9,12 +9,7 @@
   date: "2021/08"
   state: "present"
 
-- id: "lecarre1983drummer"
-  name: "The Little Drummer Girl"
-  author: "John le Carré"
-  link: "https://bookshop.org/books/the-little-drummer-girl-9780143119746/9780143119746?aid=11005&listref=the-best-of-john-le-carre"
-  date: "2021/08"
-  state: "present"
+
 
 - id: "hernan2020causal"
   name: "Causal Inference: What If?"
@@ -25,13 +20,37 @@
 
 ## past
 
+- id: "ngaba"
+  name: "Eat the Buddha: Life and Death in a Tibetan Town"
+  author: "Barbara Demick"
+  link: "https://bookshop.org/books/eat-the-buddha-life-and-death-in-a-tibetan-town/9780812988116?listref=now-in-paperback"
+  date: "2021/08"
+  state: "past"
+  place: "dolores"
+
+- id: "wu2021west"
+  name: "Journey to the West"
+  author: "Wu Cheng'en, translated by Julia Lovell"
+  link: "https://bookshop.org/books/monkey-king-journey-to-the-west/9780143107187"
+  date: "2021/08"
+  state: "past"
+  place: "mycoffee"
+
+- id: "lecarre1983drummer"
+  name: "The Little Drummer Girl"
+  author: "John le Carré"
+  link: "https://bookshop.org/books/the-little-drummer-girl-9780143119746/9780143119746?aid=11005&listref=the-best-of-john-le-carre"
+  date: "2021/08"
+  state: "past"
+  place: "strada"
+
 - id: "borges2004aleph"
   name: "The Aleph and Other Stories"
   author: "Jorge Luis Borges"
   link: "https://bookshop.org/books/the-aleph-and-other-stories/9780142437889"
   date: "2021/07"
   state: "past"
-  place: "ucberkeley"
+  place: "spro"
 
 - id: "calvino1988memos"
   name: "Six Memos for the Next Millennium"
@@ -58,7 +77,7 @@
   place: "cmu"
 
 - id: "wang2020chicken"
-  name: "Blockchain Chicken Farm: And Other Stories of Tech in China's Countryside"
+  name: "Blockchain Chicken Farm"
   author: "Xiaowei Wang"
   link: "https://g.co/kgs/QuPyY4"
   date: "2021/03"

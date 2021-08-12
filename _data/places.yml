@@ -1,6 +1,18 @@
-ucberkeley:
-  name: "University of California, Berkeley"
-  maploc: "https://goo.gl/maps/zzTWRctpUS3xNVAv8"
+dolores:
+  name: "Mission Dolores Park"
+  maploc: "https://goo.gl/maps/cz728mPhRJBhQSwD8"
+
+mycoffee:
+  name: "MY Coffee Roastery"
+  maploc: "https://goo.gl/maps/pe1sj9Gwxk3E2zJc8"
+
+strada:
+  name: "Caffè Strada"
+  maploc: "https://goo.gl/maps/ecHggJPGAX7TAvFg7"
+
+spro:
+  name: "SPRO Coffee Lab"
+  maploc: "https://g.page/spro-san-francisco?share"
 
 houndandmare:
   name: "Hound and Mare"
