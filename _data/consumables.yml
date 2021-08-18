@@ -2,14 +2,6 @@
 ## I should redesign this to account for rereads and potential blog posts...
 
 
-- id: "liu2016paper"
-  name: "The Paper Menagerie and Other Stories"
-  author: "Ken Liu"
-  link: "https://bookshop.org/books/the-paper-menagerie-and-other-stories/9781481424363"
-  date: "2021/08"
-  state: "present"
-
-
 
 - id: "hernan2020causal"
   name: "Causal Inference: What If?"
@@ -19,6 +11,30 @@
   state: "present"
 
 ## past
+
+- id: "lecarre2019agent"
+  name: "Agent Running in the Field"
+  author: "John le Carré"
+  link: "https://bookshop.org/books/agent-running-in-the-field/9781984878892"
+  date: "2021/08"
+  state: "past"
+  place: "stable"
+
+- id: "nv2019beauty"
+  name: "Animal Beauty: On the Evolution of Biological Aesthetics"
+  author: "Christiane Nüsslein-Volhard"
+  link: "https://mitpress.mit.edu/books/animal-beauty"
+  date: "2021/08"
+  state: "past"
+  place: "atlas"
+
+- id: "liu2016paper"
+  name: "The Paper Menagerie and Other Stories"
+  author: "Ken Liu"
+  link: "https://bookshop.org/books/the-paper-menagerie-and-other-stories/9781481424363"
+  date: "2021/08"
+  state: "past"
+  place: "haus"
 
 - id: "ngaba"
   name: "Eat the Buddha: Life and Death in a Tibetan Town"
@@ -64,7 +80,7 @@
   name: "Harvey Sacks-Lectures, 1964-1965"
   author: "transcribed by Gail Jefferson"
   link: "https://www.jstor.org/stable/20009056?seq=1"
-  date: "2021/02"
+  date: "2021/07"
   state: "past"
   place: "umich"
 

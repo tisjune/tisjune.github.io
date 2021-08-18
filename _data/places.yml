@@ -1,3 +1,15 @@
+stable:
+  name: "Stable Cafe"
+  maploc: "https://goo.gl/maps/myFp3jkfXvCsZRFt5"
+
+atlas:
+  name: "Atlas Cafe"
+  maploc: "https://g.page/AtlasCafeSF?share"
+
+haus:
+  name: "Haus Coffee"
+  maploc: "https://goo.gl/maps/ky9oGDQcszh7w6Js9"
+
 dolores:
   name: "Mission Dolores Park"
   maploc: "https://goo.gl/maps/cz728mPhRJBhQSwD8"
