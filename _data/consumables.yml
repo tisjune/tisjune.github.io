@@ -1,8 +1,20 @@
 ## present
 ## I should redesign this to account for rereads and potential blog posts...
 
+- id: "said1979orientalism"
+  name: "Orientalism"
+  author: "Edward W. Said"
+  link: "https://bookshop.org/books/orientalism/9780394740676"
+  date: "2021/08"
+  state: "present"
 
-
+- id: "lecarre2018legacy"
+  name: "A Legacy of Spies"
+  author: "John le Carré"
+  link: "https://bookshop.org/books/a-legacy-of-spies/9780735225138"
+  date: "2021/08"
+  state: "present"
+  
 - id: "hernan2020causal"
   name: "Causal Inference: What If?"
   author: "Miguel Hernán & Jamie Robins"
@@ -11,6 +23,13 @@
   state: "present"
 
 ## past
+
+- id: "epp2014policing"
+  name: "Pulled Over: How Police Stops Define Race and Citizenship"
+  author: "Charles R. Epp, Steven Maynard-Moody, Donald P. Haider-Markel"
+  link: "https://bookshop.org/books/pulled-over-how-police-stops-define-race-and-citizenship/9780226113999"
+  date: "2021/08"
+  state: "past"
 
 - id: "lecarre2019agent"
   name: "Agent Running in the Field"
