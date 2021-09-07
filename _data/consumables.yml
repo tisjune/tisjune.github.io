@@ -8,12 +8,7 @@
   date: "2021/08"
   state: "present"
 
-- id: "lecarre2018legacy"
-  name: "A Legacy of Spies"
-  author: "John le Carré"
-  link: "https://bookshop.org/books/a-legacy-of-spies/9780735225138"
-  date: "2021/08"
-  state: "present"
+
   
 - id: "hernan2020causal"
   name: "Causal Inference: What If?"
@@ -23,6 +18,13 @@
   state: "present"
 
 ## past
+
+- id: "lecarre2018legacy"
+  name: "A Legacy of Spies"
+  author: "John le Carré"
+  link: "https://bookshop.org/books/a-legacy-of-spies/9780735225138"
+  date: "2021/08"
+  state: "past"
 
 - id: "epp2014policing"
   name: "Pulled Over: How Police Stops Define Race and Citizenship"
