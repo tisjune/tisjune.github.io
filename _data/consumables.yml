@@ -1,15 +1,13 @@
 ## present
 ## I should redesign this to account for rereads and potential blog posts...
 
-- id: "said1979orientalism"
-  name: "Orientalism"
-  author: "Edward W. Said"
-  link: "https://bookshop.org/books/orientalism/9780394740676"
-  date: "2021/08"
+- id: "chiang2020exhalation"
+  name: "Exhalation"
+  author: "Ted Chiang"
+  link: "https://bookshop.org/books/exhalation/9781101972083"
+  date: "2021/09"
   state: "present"
 
-
-  
 - id: "hernan2020causal"
   name: "Causal Inference: What If?"
   author: "Miguel Hernán & Jamie Robins"
@@ -18,6 +16,28 @@
   state: "present"
 
 ## past
+
+- id: "eberhardt2019biased"
+  name: "Biased: Uncovering the Hidden Prejudice That Shapes What We See, Think, and Do"
+  author: "Jennifer L. Eberhardt"
+  link: "https://bookshop.org/books/biased-uncovering-the-hidden-prejudice-that-shapes-what-we-see-think-and-do/9780735224957"
+  date: "2021/09"
+  state: "past"
+  place: "mjh"
+
+- id: "doyle1902hound"
+  name: "The Hound of the Baskervilles"
+  author: "Arthur Conan Doyle"
+  link: "https://bookshop.org/books/the-hound-of-the-baskervilles-9780451528018/9780451528018"
+  date: "2021/09"
+  state: "past"
+
+- id: "said1979orientalism"
+  name: "Orientalism"
+  author: "Edward W. Said"
+  link: "https://bookshop.org/books/orientalism/9780394740676"
+  date: "2021/08"
+  state: "past"
 
 - id: "lecarre2018legacy"
   name: "A Legacy of Spies"
