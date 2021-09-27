@@ -1,12 +1,6 @@
 ## present
 ## I should redesign this to account for rereads and potential blog posts...
 
-- id: "chiang2020exhalation"
-  name: "Exhalation"
-  author: "Ted Chiang"
-  link: "https://bookshop.org/books/exhalation/9781101972083"
-  date: "2021/09"
-  state: "present"
 
 - id: "hernan2020causal"
   name: "Causal Inference: What If?"
@@ -16,6 +10,13 @@
   state: "present"
 
 ## past
+
+- id: "chiang2020exhalation"
+  name: "Exhalation"
+  author: "Ted Chiang"
+  link: "https://bookshop.org/books/exhalation/9781101972083"
+  date: "2021/09"
+  state: "past"
 
 - id: "eberhardt2019biased"
   name: "Biased: Uncovering the Hidden Prejudice That Shapes What We See, Think, and Do"
