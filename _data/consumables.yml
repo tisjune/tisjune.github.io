@@ -1,6 +1,12 @@
 ## present
 ## I should redesign this to account for rereads and potential blog posts...
 
+- id: "lecarre1993nightmanager1"
+  name: "The Night Manager (again!)"
+  author: "John le Carré"
+  link: "https://www.amazon.com/Night-Manager-John-Carre/dp/0345385764"
+  date: "2021/10"
+  state: "present"
 
 - id: "hernan2020causal"
   name: "Causal Inference: What If?"
@@ -9,7 +15,26 @@
   date: "2020/07"
   state: "present"
 
+# jefferson
+
+- id: "jefferson2015troubles"
+  name: "Talking about Troubles in Conversation"
+  author: "Gail Jefferson"
+  link: "https://bookshop.org/books/talking-about-troubles-in-conversation/9780199937349"
+  date: "2021/10"
+  state: "present"
+
 ## past
+
+# tannen
+
+- id: "tannen1984style"
+  name: "Conversational Style"
+  author: "Deborah Tannen"
+  link: "https://bookshop.org/books/conversational-style/9780195221817"
+  date: "2021/10"
+  state: "past"
+  place: "bluebottleoakland"
 
 - id: "chiang2020exhalation"
   name: "Exhalation"
