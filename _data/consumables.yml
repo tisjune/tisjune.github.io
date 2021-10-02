@@ -15,7 +15,6 @@
   date: "2020/07"
   state: "present"
 
-# jefferson
 
 - id: "jefferson2015troubles"
   name: "Talking about Troubles in Conversation"
@@ -26,7 +25,6 @@
 
 ## past
 
-# tannen
 
 - id: "tannen1984style"
   name: "Conversational Style"
