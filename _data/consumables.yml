@@ -12,10 +12,10 @@
   state: "present"
 
 
-- id: "bowker2000sorting"
-  name: "Sorting Things Out: Classification and Its Consequences"
-  author: "Geoffrey C. Bowker & Susah Leigh Star"
-  link: "https://bookshop.org/books/sorting-things-out-classification-and-its-consequences/9780262522953"
+- id: "calvino1957baron"
+  name: "The Baron in the Trees"
+  author: "Italo Calvino"
+  link: "https://bookshop.org/books/the-baron-in-the-trees/9780544959118"
   date: "2021/10"
   state: "present"
 
@@ -23,6 +23,14 @@
 
 
 ## past
+
+- id: "bowker2000sorting"
+  name: "Sorting Things Out: Classification and Its Consequences"
+  author: "Geoffrey C. Bowker & Susah Leigh Star"
+  link: "https://bookshop.org/books/sorting-things-out-classification-and-its-consequences/9780262522953"
+  date: "2021/10"
+  state: "past"
+  place: "vervesf"
 
 
 - id: "lt2019tao"
