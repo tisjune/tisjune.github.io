@@ -33,6 +33,15 @@
   place: "vervesf"
 
 
+- id: "macdonald2020vesper"
+  name: "Vesper Flights"
+  author: "Helen MacDonald"
+  link: "https://bookshop.org/books/vesper-flights-9781432884864/9781432884864"
+  date: "2021/10"
+  state: "past"
+  place: "atlas"
+
+
 - id: "lt2019tao"
   name: "Tao Te Ching"
   author: "Lao Tzu, translated by Ursula K. Le Guin"
