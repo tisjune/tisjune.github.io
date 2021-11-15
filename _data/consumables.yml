@@ -1,7 +1,24 @@
 ## present
-## I should redesign this to account for rereads and potential blog posts...
 
 
+
+
+
+
+
+
+
+
+
+## past
+
+- id: "calvino1957baron"
+  name: "The Baron in the Trees"
+  author: "Italo Calvino"
+  link: "https://bookshop.org/books/the-baron-in-the-trees/9780544959118"
+  date: "2021/10"
+  state: "past"
+  place: "philzrh"
 
 
 - id: "jefferson2015troubles"
@@ -9,20 +26,8 @@
   author: "Gail Jefferson"
   link: "https://bookshop.org/books/talking-about-troubles-in-conversation/9780199937349"
   date: "2021/10"
-  state: "present"
-
-
-- id: "calvino1957baron"
-  name: "The Baron in the Trees"
-  author: "Italo Calvino"
-  link: "https://bookshop.org/books/the-baron-in-the-trees/9780544959118"
-  date: "2021/10"
-  state: "present"
-
-
-
-
-## past
+  state: "past"
+  place: "vervesf"
 
 - id: "bowker2000sorting"
   name: "Sorting Things Out: Classification and Its Consequences"
