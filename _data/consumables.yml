@@ -1,22 +1,42 @@
 ## present
 
 
+# doing race
 
+- id: "markusmoya2010race"
+  name: "Doing Race: 21 Essays for the 21st Century"
+  author: "Hazel R. Markus & Paula M. L. Moya"
+  link: "https://wwnorton.com/books/9780393930702"
+  date: "2021/11"
+  state: "present"
+  
 
+# silverview
 
-
-
-
-
-
+- id: "lecarre2021silverview"
+  name: "Silverview"
+  author: "John le Carré"
+  link: "https://bookshop.org/books/silverview-9780593554739/9780593490594"
+  date: "2021/11"
+  state: "present"
 
 ## past
+
+# strategic interaction
+
+- id: "goffman1970strategic"
+  name: "Strategic Interaction"
+  author: "Erving Goffman"
+  link: "https://bookshop.org/books/strategic-interaction/9780812210118"
+  date: "2021/11"
+  state: "past"
+  place: "coupapa"
 
 - id: "calvino1957baron"
   name: "The Baron in the Trees"
   author: "Italo Calvino"
   link: "https://bookshop.org/books/the-baron-in-the-trees/9780544959118"
-  date: "2021/10"
+  date: "2021/11"
   state: "past"
   place: "philzrh"
 
