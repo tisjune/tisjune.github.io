@@ -9,20 +9,16 @@
   link: "https://wwnorton.com/books/9780393930702"
   date: "2021/11"
   state: "present"
-  
 
-# silverview
+
+## past
 
 - id: "lecarre2021silverview"
   name: "Silverview"
   author: "John le Carré"
   link: "https://bookshop.org/books/silverview-9780593554739/9780593490594"
   date: "2021/11"
-  state: "present"
-
-## past
-
-# strategic interaction
+  state: "past"
 
 - id: "goffman1970strategic"
   name: "Strategic Interaction"
