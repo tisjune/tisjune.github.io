@@ -3,6 +3,21 @@
 
 # past
 
+- id: "dignazio2020datafeminism"
+  name: "Data Feminism"
+  author: "Catherine D'Ignazio & Lauren F. Klein"
+  link: "https://mitpress.mit.edu/books/data-feminism"
+  date: "2021/12"
+  state: "past"
+
+- id: "stuart2016skid"
+  name: "Down, Out, and Under Arrest"
+  author: "Forrest Stuart"
+  link: "https://press.uchicago.edu/ucp/books/book/chicago/D/bo23530208.html"
+  date: "2021/12"
+  state: "past"
+  place: "doloresparkcafe"
+
 - id: "markusmoya2010race"
   name: "Doing Race: 21 Essays for the 21st Century"
   author: "Hazel R. Markus & Paula M. L. Moya"
