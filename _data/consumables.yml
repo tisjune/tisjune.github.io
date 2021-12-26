@@ -3,6 +3,13 @@
 
 # past
 
+- id: "lecarre2011dima"
+  name: "Our Kind of Traitor"
+  author: "John le Carré"
+  link: "https://bookshop.org/books/our-kind-of-traitor-9780143119722/9780143119722"
+  date: "2021/12"
+  state: "past"
+
 - id: "dignazio2020datafeminism"
   name: "Data Feminism"
   author: "Catherine D'Ignazio & Lauren F. Klein"
