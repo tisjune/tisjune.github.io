@@ -17,6 +17,14 @@
   date: "2021/12"
   state: "past"
 
+- id: "mattern2021city"
+  name: "A City is Not a Computer"
+  author: "Shannon Mattern"
+  link: "https://placesjournal.org/book/a-city-is-not-a-computer/?cn-reloaded=1"
+  date: "2021/12"
+  state: "past"
+  place: "vervepa"
+
 - id: "stuart2016skid"
   name: "Down, Out, and Under Arrest"
   author: "Forrest Stuart"
