@@ -3,7 +3,7 @@
 - id: "lipsky1980street"
   name: "Street-Level Bureaucracy"
   author: "Michael Lipsky"
-  link: "https://twitter.com/math_rachel/status/1166098715423043584"
+  link: "https://ali-alkhatib.com/papers/chi/street-level_algorithms/street-level_algorithms.pdf"
   date: "2022/01"
   state: "present"
 
@@ -14,15 +14,22 @@
   date: "2022/01"
   state: "present"
 
+
+- id: "mears2020vip"
+  name: "Very Important People: Status and Beauty in the Global Party Circuit"
+  author: "Ashley Mears"
+  link: "https://www.economist.com/1843/2020/07/03/the-secret-economics-of-a-vip-party"
+  date: "2022/01"
+  state: "present"
+
+# past
+
 - id: "greene1955quiet"
   name: "The Quiet American"
   author: "Graham Greene"
   link: "https://faroutmagazine.co.uk/anthony-bourdain-39-favourite-books-reading-list/"
   date: "2022/01"
-  state: "present"
-
-
-# past
+  state: "past"
 
 - id: "lecarre2011dima"
   name: "Our Kind of Traitor"
