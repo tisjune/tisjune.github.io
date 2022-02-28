@@ -1,11 +1,6 @@
 ## present
 
-- id: "lipsky1980street"
-  name: "Street-Level Bureaucracy"
-  author: "Michael Lipsky"
-  link: "https://ali-alkhatib.com/papers/chi/street-level_algorithms/street-level_algorithms.pdf"
-  date: "2022/01"
-  state: "present"
+
 
 - id: "button1995olp"
   name: "Computers, Minds & Conduct"
@@ -15,14 +10,45 @@
   state: "present"
 
 
+- id: "wallace2019objectivity"
+  name: "The View from Somewhere: Undoing the Myth of Journalistic Objectivity"
+  author: "Lewis Raven Wallace"
+  link: "https://www.lewispants.com/the-view-from-somewhere"
+  date: "2022/02"
+  state: "present"
+
+
+
+# past
+
+
+- id: "zakaria2021feminism"
+  name: "Against White Feminism: Notes on Disruption"
+  author: "Rafia Zakaria"
+  link: "https://bookshop.org/books/against-white-feminism-notes-on-disruption/9781324006619"
+  date: "2022/02"
+  state: "past"
+
+- id: "brayne2020surveil"
+  name: "Predict and Surveil: Data, Discretion, and the Future of Policing"
+  author: "Sarah Brayne"
+  link: "https://bookshop.org/books/predict-and-surveil-data-discretion-and-the-future-of-policing/9780190684099"
+  date: "2022/02"
+  state: "past"
+
+- id: "lipsky1980street"
+  name: "Street-Level Bureaucracy"
+  author: "Michael Lipsky"
+  link: "https://ali-alkhatib.com/papers/chi/street-level_algorithms/street-level_algorithms.pdf"
+  date: "2022/01"
+  state: "past"
+
 - id: "mears2020vip"
   name: "Very Important People: Status and Beauty in the Global Party Circuit"
   author: "Ashley Mears"
   link: "https://www.economist.com/1843/2020/07/03/the-secret-economics-of-a-vip-party"
   date: "2022/01"
-  state: "present"
-
-# past
+  state: "past"
 
 - id: "greene1955quiet"
   name: "The Quiet American"
