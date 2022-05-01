@@ -1,26 +1,42 @@
 ## present
 
 
-
-- id: "button1995olp"
-  name: "Computers, Minds & Conduct"
-  author: "Graham Button, Jeff Coulter, John Lee & Wes Sharrock"
-  link: "https://twitter.com/5tuartreeves/status/1428690037592502272"
-  date: "2022/01"
+- id: "ahmed2021complaint"
+  name: "Complaint!"
+  author: "Sara Ahmed"
+  link: "https://bookshop.org/books/complaint-9781478017714/9781478017714"
+  date: "2022/05"
   state: "present"
 
+- id: "lecarre1996panama"
+  name: "Talk at Work: Interaction in Institutional Settings"
+  author: "Paul Drew & John Heritage (ed)"
+  link: "https://bookshop.org/books/talk-at-work-interaction-in-institutional-settings/9780521376334"
+  date: "2022/04"
+  state: "present"
+
+# past
+
+- id: "lecarre1996panama"
+  name: "The Tailor of Panama"
+  author: "John le Carré"
+  link: "https://bookshop.org/books/the-tailor-of-panama-9781524796969/9781524796969"
+  date: "2022/03"
+  state: "past"
+
+- id: "graeber2016utopia"
+  name: "The Utopia of Rules: On Technology, Stupidity, and the Secret Joys of Bureaucracy"
+  author: "David Graeber"
+  link: "https://bookshop.org/books/the-utopia-of-rules-on-technology-stupidity-and-the-secret-joys-of-bureaucracy/9781612195186"
+  date: "2022/02"
+  state: "past"
 
 - id: "wallace2019objectivity"
   name: "The View from Somewhere: Undoing the Myth of Journalistic Objectivity"
   author: "Lewis Raven Wallace"
   link: "https://www.lewispants.com/the-view-from-somewhere"
   date: "2022/02"
-  state: "present"
-
-
-
-# past
-
+  state: "past"
 
 - id: "zakaria2021feminism"
   name: "Against White Feminism: Notes on Disruption"
