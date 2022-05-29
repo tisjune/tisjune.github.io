@@ -1,14 +1,20 @@
 ## present
 
-
-- id: "ahmed2021complaint"
-  name: "Complaint!"
-  author: "Sara Ahmed"
-  link: "https://bookshop.org/books/complaint-9781478017714/9781478017714"
+- id: "lecarre2009wanted"
+  name: "A Most Wanted Man"
+  author: "John le Carré"
+  link: "https://bookshop.org/books/a-most-wanted-man-9781476740140/9781416594895"
   date: "2022/05"
   state: "present"
 
-- id: "lecarre1996panama"
+- id: "wittgenstein2009pi"
+  name: "Philosophical Investigations"
+  author: "Ludwig Wittgenstein, translated by Anscombe, Hacker & Schulte"
+  link: "https://bookshop.org/books/philosophical-investigations-9781405159289/9781405159289"
+  date: "2022/05"
+  state: "present"
+
+- id: "drew1993talk"
   name: "Talk at Work: Interaction in Institutional Settings"
   author: "Paul Drew & John Heritage (ed)"
   link: "https://bookshop.org/books/talk-at-work-interaction-in-institutional-settings/9780521376334"
@@ -16,6 +22,37 @@
   state: "present"
 
 # past
+
+
+- id: "vitale2021defund"
+  name: "The End of Policing"
+  author: "Alex Vitale"
+  link: "https://bookshop.org/books/the-end-of-policing-9798200346127/9781839763786"
+  date: "2022/05"
+  state: "past"
+  place: "thoroughbread"
+
+- id: "mcconnell2003leash"
+  name: "The Other End of the Leash: Why We Do What We Do Around Dogs"
+  author: "Patricia McConnell"
+  link: "https://bookshop.org/books/the-other-end-of-the-leash-why-we-do-what-we-do-around-dogs/9780345446787"
+  date: "2022/05"
+  state: "past"
+  place: "vervesf"
+
+- id: "schegloff2007sequence"
+  name: "Sequence Organization in Interaction"
+  author: "Emanuel Schegloff"
+  link: "https://bookshop.org/books/sequence-organization-in-interaction-a-primer-in-conversation-analysis-i/9780521532792"
+  date: "2022/05"
+  state: "past"
+
+- id: "ahmed2021complaint"
+  name: "Complaint!"
+  author: "Sara Ahmed"
+  link: "https://bookshop.org/books/complaint-9781478017714/9781478017714"
+  date: "2022/05"
+  state: "past"
 
 - id: "lecarre1996panama"
   name: "The Tailor of Panama"
