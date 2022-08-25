@@ -1,11 +1,6 @@
 ## present
 
-- id: "lecarre2009wanted"
-  name: "A Most Wanted Man"
-  author: "John le Carré"
-  link: "https://bookshop.org/books/a-most-wanted-man-9781476740140/9781416594895"
-  date: "2022/05"
-  state: "present"
+
 
 - id: "wittgenstein2009pi"
   name: "Philosophical Investigations"
@@ -14,15 +9,38 @@
   date: "2022/05"
   state: "present"
 
-- id: "drew1993talk"
-  name: "Talk at Work: Interaction in Institutional Settings"
-  author: "Paul Drew & John Heritage (ed)"
-  link: "https://bookshop.org/books/talk-at-work-interaction-in-institutional-settings/9780521376334"
-  date: "2022/04"
+- id: "lecarre2004gardener"
+  name: "The Constant Gardener"
+  author: "John le Carré"
+  link: "https://bookshop.org/books/the-constant-gardener/9780743262439"
+  date: "2022/08"
   state: "present"
+
+- id: "zeavin2021distance"
+  name: "The Distance Cure: A History of Teletherapy"
+  author: "Hannah Zeavin"
+  link: "https://bookshop.org/books/the-distance-cure-a-history-of-teletherapy/9780262045926"
+  date: "2022/08"
+  state: "present"
+
+
 
 # past
 
+- id: "taiwo2022capture"
+  name: "Elite Capture: How the Powerful Took Over Identity Politics (and Everything Else)"
+  author: "Olúfẹ́mi O. Táíwò"
+  link: "https://bookshop.org/books/elite-capture-how-the-powerful-took-over-identity-politics-and-everything-else/9781642596885"
+  date: "2022/08"
+  state: "past"
+
+- id: "lecarre2009wanted"
+  name: "A Most Wanted Man"
+  author: "John le Carré"
+  link: "https://bookshop.org/books/a-most-wanted-man-9781476740140/9781416594895"
+  date: "2022/08"
+  state: "past"
+  place: "roosroast"
 
 - id: "vitale2021defund"
   name: "The End of Policing"

@@ -13,11 +13,11 @@ url: "tisjune.github.io" # the base hostname & protocol for your site
 github_username:  tisjune
 twitter_username: tisjune
 #email: jz727@cornell.edu
-fakeemail: jz727 @ cornell . edu
+fakeemail: tisjune @ umich . edu
 # Build settings
 markdown: kramdown
-gatesloc: "https://goo.gl/maps/oftxSY4cFRm"
-officeloc: 214 Gates
+officemaploc: "https://goo.gl/maps/daP5GH4SWrdSBjDf7"
+officeloc: 3415 North Quad
 include: ["_publications"]
 collections:
   - publications
