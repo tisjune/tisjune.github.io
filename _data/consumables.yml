@@ -16,16 +16,19 @@
   date: "2022/08"
   state: "present"
 
-- id: "zeavin2021distance"
-  name: "The Distance Cure: A History of Teletherapy"
-  author: "Hannah Zeavin"
-  link: "https://bookshop.org/books/the-distance-cure-a-history-of-teletherapy/9780262045926"
-  date: "2022/08"
-  state: "present"
 
 
 
 # past
+
+- id: "zeavin2021distance"
+  name: "The Distance Cure: A History of Teletherapy"
+  author: "Hannah Zeavin"
+  link: "https://bookshop.org/books/the-distance-cure-a-history-of-teletherapy/9780262045926"
+  date: "2022/09"
+  state: "past"
+  place: "umich"
+
 
 - id: "taiwo2022capture"
   name: "Elite Capture: How the Powerful Took Over Identity Politics (and Everything Else)"
