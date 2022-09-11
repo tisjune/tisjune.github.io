@@ -14,17 +14,24 @@
   date: "2022/05"
   state: "present"
 
+- id: "dickey2016pitbull"
+  name: "Pit Bull: The Battle Over an American Icon"
+  author: "Bronwen Dickey"
+  link: "https://bookshop.org/books/pit-bull-the-battle-over-an-american-icon/9780345803115"
+  date: "2022/09"
+  state: "present"
+
+
+
+# past
+
 - id: "lecarre2004gardener"
   name: "The Constant Gardener"
   author: "John le Carré"
   link: "https://bookshop.org/books/the-constant-gardener/9780743262439"
   date: "2022/08"
-  state: "present"
-
-
-
-
-# past
+  state: "past"
+  place: "hyperion"
 
 - id: "zeavin2021distance"
   name: "The Distance Cure: A History of Teletherapy"
