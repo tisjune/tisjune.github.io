@@ -1,11 +1,6 @@
 ## present
 
-- id: "small2022qual"
-  name: "Qualitative Literacy: A Guide to Evaluating Ethnographic and Interview Research"
-  author: "Mario Luis Small & Jessica McCrory Calarco"
-  link: "https://bookshop.org/books/qualitative-literacy-a-guide-to-evaluating-ethnographic-and-interview-research-9780520390669/9780520390669"
-  date: "2022/09"
-  state: "present"
+
 
 - id: "wittgenstein2009pi"
   name: "Philosophical Investigations"
@@ -24,6 +19,14 @@
 
 
 # past
+
+- id: "small2022qual"
+  name: "Qualitative Literacy: A Guide to Evaluating Ethnographic and Interview Research"
+  author: "Mario Luis Small & Jessica McCrory Calarco"
+  link: "https://bookshop.org/books/qualitative-literacy-a-guide-to-evaluating-ethnographic-and-interview-research-9780520390669/9780520390669"
+  date: "2022/09"
+  state: "past"
+  place: "umich"
 
 - id: "lecarre2004gardener"
   name: "The Constant Gardener"
