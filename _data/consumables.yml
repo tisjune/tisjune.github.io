@@ -9,16 +9,24 @@
   date: "2022/05"
   state: "present"
 
+
+- id: "goffman1981forms"
+  name: "Forms of Talk"
+  author: "Erving Goffman"
+  link: "https://bookshop.org/books/forms-of-talk/9780812211122"
+  date: "2022/09"
+  state: "present"
+
+
+# past
+
 - id: "dickey2016pitbull"
   name: "Pit Bull: The Battle Over an American Icon"
   author: "Bronwen Dickey"
   link: "https://bookshop.org/books/pit-bull-the-battle-over-an-american-icon/9780345803115"
   date: "2022/09"
-  state: "present"
-
-
-
-# past
+  state: "past"
+  place: "zingermansnextdoor"
 
 - id: "small2022qual"
   name: "Qualitative Literacy: A Guide to Evaluating Ethnographic and Interview Research"
