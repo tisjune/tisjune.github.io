@@ -17,6 +17,13 @@
   date: "2022/09"
   state: "present"
 
+- id: "donaldson2012culture"
+  name: "The Culture Clash"
+  author: "Jean Donaldson"
+  link: "https://bookshop.org/books/culture-clash-a-revolutionary-new-way-of-understanding-the-relationship-between-humans-and-domestic-dogs/9781617811128"
+  date: "2022/10"
+  state: "present"
+
 
 # past
 
