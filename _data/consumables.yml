@@ -10,22 +10,23 @@
   state: "present"
 
 
+# past
+
 - id: "goffman1981forms"
   name: "Forms of Talk"
   author: "Erving Goffman"
   link: "https://bookshop.org/books/forms-of-talk/9780812211122"
-  date: "2022/09"
-  state: "present"
+  date: "2022/10"
+  state: "past"
+  place: "comet"
 
 - id: "donaldson2012culture"
   name: "The Culture Clash"
   author: "Jean Donaldson"
   link: "https://bookshop.org/books/culture-clash-a-revolutionary-new-way-of-understanding-the-relationship-between-humans-and-domestic-dogs/9781617811128"
   date: "2022/10"
-  state: "present"
-
-
-# past
+  state: "past"
+  place: "hyperion"
 
 - id: "dickey2016pitbull"
   name: "Pit Bull: The Battle Over an American Icon"
