@@ -12,6 +12,14 @@
 
 # past
 
+- id: "pryor1984dog"
+  name: "Don't Shoot the Dog: The Art of Teaching and Training"
+  author: "Karen Pryor"
+  link: "https://bookshop.org/p/books/don-t-shoot-the-dog-the-art-of-teaching-and-training-karen-pryor/10136411?ean=9781982106461"
+  date: "2022/10"
+  state: "past"
+  place: "argus"
+
 - id: "goffman1981forms"
   name: "Forms of Talk"
   author: "Erving Goffman"
