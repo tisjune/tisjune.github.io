@@ -10,7 +10,16 @@
   state: "present"
 
 
+- id: "berman2022econ"
+  name: "Thinking Like an Economist: How Efficiency Replaced Equality in U.S. Public Policy"
+  author: "Elizabeth Popp Berman"
+  link: "https://bookshop.org/p/books/thinking-like-an-economist-how-efficiency-replaced-equality-in-u-s-public-policy/18908605"
+  date: "2022/10"
+  state: "present"
+
 # past
+
+
 
 - id: "pryor1984dog"
   name: "Don't Shoot the Dog: The Art of Teaching and Training"
