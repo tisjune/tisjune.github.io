@@ -9,7 +9,12 @@
   date: "2022/05"
   state: "present"
 
-
+- id: "horowitz2010dog"
+  name: "Inside of a Dog: What Dogs See, Smell, and Know"
+  author: "Alexandra Horowitz"
+  link: "https://bookshop.org/p/books/inside-of-a-dog-what-dogs-see-smell-and-know-alexandra-horowitz/14918249"
+  date: "2022/11"
+  state: "present"
 
 
 # past
