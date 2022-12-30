@@ -9,15 +9,23 @@
   date: "2022/05"
   state: "present"
 
+
+- id: "lecarre1968bonn"
+  name: "A Small Town in Germany"
+  author: "John le Carré"
+  link: "https://bookshop.org/p/books/a-small-town-in-germany-john-le-carre/6682783"
+  date: "2022/12"
+  state: "past"
+
+
+# past
+
 - id: "horowitz2010dog"
   name: "Inside of a Dog: What Dogs See, Smell, and Know"
   author: "Alexandra Horowitz"
   link: "https://bookshop.org/p/books/inside-of-a-dog-what-dogs-see-smell-and-know-alexandra-horowitz/14918249"
   date: "2022/11"
-  state: "present"
-
-
-# past
+  state: "past"
 
 - id: "berman2022econ"
   name: "Thinking Like an Economist: How Efficiency Replaced Equality in U.S. Public Policy"
