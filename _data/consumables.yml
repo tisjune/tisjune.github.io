@@ -9,6 +9,38 @@
   date: "2022/05"
   state: "present"
 
+- id: "stewart2013botany"
+  name: "The Drunken Botanist: The Plants That Create the World's Great Drinks"
+  author: "Amy Stewart"
+  link: "https://bookshop.org/p/books/the-drunken-botanist-the-plants-that-create-the-world-s-great-drinks-amy-stewart/15542082?ean=9781616200466"
+  date: "2023/01"
+  state: "present"
+
+- id: "feyerabend1975anything"
+  name: "Against Method"
+  author: "Paul Feyerabend"
+  link: "https://bookshop.org/p/books/against-method-paul-feyerabend/11948350?ean=9781844674428"
+  date: "2023/01"
+  state: "present"
+
+- id: "benjamin2022plot"
+  name: "Viral Justice: How We Grow the World We Want"
+  author: "Ruha Benjamin"
+  link: "https://bookshop.org/p/books/viral-justice-how-we-grow-the-world-we-want-ruha-benjamin/18103571?ean=9780691222882"
+  date: "2023/01"
+  state: "present"
+  place: "umich"
+
+
+# past
+
+- id: "prescodweinstein2022luminousether"
+  name: "The Disordered Cosmos: A Journey Into Dark Matter, Spacetime, and Dreams Deferred"
+  author: "Chanda Prescod-Weinstein"
+  link: "https://bookshop.org/p/books/the-disordered-cosmos-a-journey-into-dark-matter-spacetime-and-dreams-deferred-chanda-prescod-weinstein/14887308?ean=9781541724686"
+  date: "2023/01"
+  state: "past"
+  place: "york"
 
 - id: "lecarre1968bonn"
   name: "A Small Town in Germany"
@@ -16,9 +48,6 @@
   link: "https://bookshop.org/p/books/a-small-town-in-germany-john-le-carre/6682783"
   date: "2022/12"
   state: "past"
-
-
-# past
 
 - id: "horowitz2010dog"
   name: "Inside of a Dog: What Dogs See, Smell, and Know"
