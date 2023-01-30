@@ -16,13 +16,6 @@
   date: "2023/01"
   state: "present"
 
-- id: "feyerabend1975anything"
-  name: "Against Method"
-  author: "Paul Feyerabend"
-  link: "https://bookshop.org/p/books/against-method-paul-feyerabend/11948350?ean=9781844674428"
-  date: "2023/01"
-  state: "present"
-
 - id: "benjamin2022plot"
   name: "Viral Justice: How We Grow the World We Want"
   author: "Ruha Benjamin"
@@ -33,6 +26,14 @@
 
 
 # past
+
+- id: "feyerabend1975anything"
+  name: "Against Method"
+  author: "Paul Feyerabend"
+  link: "https://bookshop.org/p/books/against-method-paul-feyerabend/11948350?ean=9781844674428"
+  date: "2023/01"
+  state: "past"
+  place: "hyperion"
 
 - id: "prescodweinstein2022luminousether"
   name: "The Disordered Cosmos: A Journey Into Dark Matter, Spacetime, and Dreams Deferred"
