@@ -9,29 +9,62 @@
   date: "2022/05"
   state: "present"
 
+- id: "daston2022rules"
+  name: "Rules: A Short History of What We Live by"
+  author: "Lorraine Daston"
+  link: "https://bookshop.org/p/books/rules-a-short-history-of-what-we-live-by-lorraine-daston/17417127?ean=9780691156989"
+  date: "2022/05"
+  state: "present"
+
+- id: "button1995computers"
+  name: "Computers, Minds and Conduct"
+  author: "Graham Button, Jeff Coulter, John R.E. Lee & Wes Sharrock"
+  link: "https://bookshop.org/p/books/computers-minds-and-conduct-graham-button/11001354?ean=9780745615714"
+  date: "2022/05"
+  state: "present"
+
+# past
+
+- id: "lecarre1961dresden"
+  name: "Call for the Dead"
+  author: "John le Carré"
+  link: "https://bookshop.org/p/books/call-for-the-dead-a-george-smiley-novel-john-le-carre/6667086?ean=9780143122579"
+  date: "2022/05"
+  state: "past"
+  place: "hyperion"
+
+- id: "ravn2022egg"
+  name: "The Employees: A Workplace Novel of the 22nd Century"
+  author: "Olga Ravn, translated by Martin Aitken"
+  link: "https://bookshop.org/p/books/the-employees-a-workplace-novel-of-the-22nd-century-olga-ravn/18589764"
+  date: "2022/05"
+  state: "past"
+  place: "hyperion"
+
+
 - id: "stewart2013botany"
   name: "The Drunken Botanist: The Plants That Create the World's Great Drinks"
   author: "Amy Stewart"
   link: "https://bookshop.org/p/books/the-drunken-botanist-the-plants-that-create-the-world-s-great-drinks-amy-stewart/15542082?ean=9781616200466"
-  date: "2023/01"
-  state: "present"
+  date: "2023/04"
+  state: "past"
 
 - id: "drew1993talk"
   name: "Talk at Work: Interaction in Institutional Settings"
   author: "Paul Drew & John Heritage"
   link: "https://bookshop.org/p/books/talk-at-work-interaction-in-institutional-settings-drew-heritage/7947806?ean=9780521376334"
-  date: "2023/03"
-  state: "present"
+  date: "2023/04"
+  state: "past"
 
 - id: "lecarre1997game"
   name: "Our Game"
   author: "John le Carré"
   link: "https://bookshop.org/p/books/our-game-john-le-carre/9048446?ean=9780345418319"
   date: "2023/03"
-  state: "present"
+  state: "past"
 
 
-# past
+
 
 - id: "moynihan2019admin"
   name: "Administrative Burden: Policymaking by Other Means"
