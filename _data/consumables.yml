@@ -1,7 +1,5 @@
 ## present
 
-
-
 - id: "wittgenstein2009pi"
   name: "Philosophical Investigations"
   author: "Ludwig Wittgenstein, translated by Anscombe, Hacker & Schulte"
@@ -9,21 +7,59 @@
   date: "2022/05"
   state: "present"
 
+- id: "cornwell2022letters"
+  name: "A Private Spy: The Letters of John Le Carré"
+  author: "John Le Carré, edited by Tim Cornwell"
+  link: "https://bookshop.org/p/books/a-private-spy-the-letters-of-john-le-carre-john-le-carre/18231424?ean=9780593490679"
+  date: "2023/05"
+  state: "present"
+
+- id: "lecarre2004friends"
+  name: "Absolute Friends"
+  author: "John Le Carré"
+  link: "https://bookshop.org/p/books/absolute-friends-john-le-carre/16438713?ean=9780316159395"
+  date: "2023/06"
+  state: "present"
+
+- id: "polletta2004meeting"
+  name: "Freedom Is an Endless Meeting"
+  author: "Francesca Polletta"
+  link: "https://bookshop.org/p/books/freedom-is-an-endless-meeting-democracy-in-american-social-movements-francesca-polletta/8335567?ean=9780226674490"
+  date: "2023/06"
+  state: "present"
+
+# past
+
+- id: "tawada2022panska"
+  name: "Scattered All Over the Earth"
+  author: "Yoko Tawada, translated by Margaret Mitsutani"
+  link: "https://bookshop.org/p/books/scattered-all-over-the-earth/18865508?ean=9780811229289"
+  date: "2023/06"
+  state: "past"
+  place: "hyperion"
+
+- id: "greene1959havana"
+  name: "Our Man in Havana"
+  author: "Graham Greene"
+  link: "https://bookshop.org/p/books/our-man-in-havana-graham-greene/11686859?ean=9780142438008"
+  date: "2023/06"
+  state: "past"
+  place: "hyperion"
+
+- id: "malcolm1990murder"
+  name: "The Journalist and the Murderer"
+  author: "Janet Malcolm"
+  link: "https://bookshop.org/p/books/the-journalist-and-the-murderer-janet-malcolm/16666149?ean=9780679731832"
+  date: "2023/05"
+  state: "past"
+
 - id: "button1995computers"
   name: "Computers, Minds and Conduct"
   author: "Graham Button, Jeff Coulter, John R.E. Lee & Wes Sharrock"
   link: "https://bookshop.org/p/books/computers-minds-and-conduct-graham-button/11001354?ean=9780745615714"
   date: "2023/05"
-  state: "present"
-
-- id: "cornwell2022letters"
-  name: "A Private Spy: The Letters of John Le Carré"
-  author: "John le Carré, edited by Tim Cornwell"
-  link: "https://bookshop.org/p/books/a-private-spy-the-letters-of-john-le-carre-john-le-carre/18231424?ean=9780593490679"
-  date: "2023/05"
-  state: "present"
-
-# past
+  state: "past"
+  place: "roosroast"
 
 - id: "binet2018perlocution"
   name: "The Seventh Function of Language"
@@ -43,7 +79,7 @@
 
 - id: "lecarre1961dresden"
   name: "Call for the Dead"
-  author: "John le Carré"
+  author: "John Le Carré"
   link: "https://bookshop.org/p/books/call-for-the-dead-a-george-smiley-novel-john-le-carre/6667086?ean=9780143122579"
   date: "2023/05"
   state: "past"
@@ -80,7 +116,7 @@
 
 - id: "lecarre1997game"
   name: "Our Game"
-  author: "John le Carré"
+  author: "John Le Carré"
   link: "https://bookshop.org/p/books/our-game-john-le-carre/9048446?ean=9780345418319"
   date: "2023/03"
   state: "past"
@@ -131,7 +167,7 @@
 
 - id: "lecarre1968bonn"
   name: "A Small Town in Germany"
-  author: "John le Carré"
+  author: "John Le Carré"
   link: "https://bookshop.org/p/books/a-small-town-in-germany-john-le-carre/6682783"
   date: "2022/12"
   state: "past"
@@ -193,7 +229,7 @@
 
 - id: "lecarre2004gardener"
   name: "The Constant Gardener"
-  author: "John le Carré"
+  author: "John Le Carré"
   link: "https://bookshop.org/books/the-constant-gardener/9780743262439"
   date: "2022/08"
   state: "past"
@@ -217,7 +253,7 @@
 
 - id: "lecarre2009wanted"
   name: "A Most Wanted Man"
-  author: "John le Carré"
+  author: "John Le Carré"
   link: "https://bookshop.org/books/a-most-wanted-man-9781476740140/9781416594895"
   date: "2022/08"
   state: "past"
@@ -255,7 +291,7 @@
 
 - id: "lecarre1996panama"
   name: "The Tailor of Panama"
-  author: "John le Carré"
+  author: "John Le Carré"
   link: "https://bookshop.org/books/the-tailor-of-panama-9781524796969/9781524796969"
   date: "2022/03"
   state: "past"
@@ -311,7 +347,7 @@
 
 - id: "lecarre2011dima"
   name: "Our Kind of Traitor"
-  author: "John le Carré"
+  author: "John Le Carré"
   link: "https://bookshop.org/books/our-kind-of-traitor-9780143119722/9780143119722"
   date: "2021/12"
   state: "past"
@@ -348,7 +384,7 @@
 
 - id: "lecarre2021silverview"
   name: "Silverview"
-  author: "John le Carré"
+  author: "John Le Carré"
   link: "https://bookshop.org/books/silverview-9780593554739/9780593490594"
   date: "2021/11"
   state: "past"
@@ -450,7 +486,7 @@
 
 - id: "lecarre2018legacy"
   name: "A Legacy of Spies"
-  author: "John le Carré"
+  author: "John Le Carré"
   link: "https://bookshop.org/books/a-legacy-of-spies/9780735225138"
   date: "2021/08"
   state: "past"
@@ -464,7 +500,7 @@
 
 - id: "lecarre2019agent"
   name: "Agent Running in the Field"
-  author: "John le Carré"
+  author: "John Le Carré"
   link: "https://bookshop.org/books/agent-running-in-the-field/9781984878892"
   date: "2021/08"
   state: "past"
@@ -504,7 +540,7 @@
 
 - id: "lecarre1983drummer"
   name: "The Little Drummer Girl"
-  author: "John le Carré"
+  author: "John Le Carré"
   link: "https://bookshop.org/books/the-little-drummer-girl-9780143119746/9780143119746?aid=11005&listref=the-best-of-john-le-carre"
   date: "2021/08"
   state: "past"
@@ -568,7 +604,7 @@
 
 - id: "lecarre2016pigeon"
   name: "The Pigeon Tunnel: Stories from My Life"
-  author: "John le Carré"
+  author: "John Le Carré"
   link: "https://g.co/kgs/d7bTDj"
   date: "2021/01"
   state: "past"
@@ -585,7 +621,7 @@
 
 - id: "lecarre1986pym"
   name: "A Perfect Spy"
-  author: "John le Carré"
+  author: "John Le Carré"
   link: "https://g.co/kgs/pqfv9q"
   date: "2021/01"
   state: "past"
@@ -621,14 +657,14 @@
 
 - id: "lecarre1979smiley"
   name: "Smiley's People"
-  author: "John le Carré"
+  author: "John Le Carré"
   link: "https://g.co/kgs/dzKaQS"
   date: "2020/06"
   state: "past"
 
 - id: "lecarre1977schoolboy"
   name: "The Honourable Schoolboy"
-  author: "John le Carré"
+  author: "John Le Carré"
   link: "https://g.co/kgs/DgzgoP"
   date: "2020/05"
   state: "past"
@@ -658,7 +694,7 @@
 
 - id: "lecarre1974tailor"
   name: "Tinker Tailor Soldier Spy"
-  author: "John le Carré"
+  author: "John Le Carré"
   link: "https://g.co/kgs/bG8Rd5"
   date: "2020/02"
   state: "past"
@@ -674,7 +710,7 @@
 
 - id: "lecarre1965avery"
   name: "The Looking Glass War"
-  author: "John le Carré"
+  author: "John Le Carré"
   link: "https://g.co/kgs/eS225Y"
   date: "2020/01"
   state: "past"
@@ -690,7 +726,7 @@
 
 - id: "lecarre1963leamas"
   name: "The Spy Who Came in from the Cold"
-  author: "John le Carré"
+  author: "John Le Carré"
   link: "https://g.co/kgs/4LyjoF"
   date: "2019/11"
   state: "past"
@@ -945,7 +981,7 @@
 
 - id: "lecarre1993nightmanager"
   name: "The Night Manager"
-  author: "John le Carré"
+  author: "John Le Carré"
   link: "https://www.amazon.com/Night-Manager-John-Carre/dp/0345385764"
   date: "2017/08"
   place: "phil_sebastian"
