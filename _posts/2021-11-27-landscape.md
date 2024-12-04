@@ -6,6 +6,10 @@ description: Thoughts on research and potential PhD students.
 categories: blog
 ---
 
+Hello from the future (December 2024). I occasionally re-read this blog post and am struck by what's changed and what's remained constant. Different now: a much more focused engagement with the political terms on which language use and social interaction happens, and is examined/theorized/commodified; much less patience with approaches (including mine) that fail to reckon with their politics. Constant: a continued fascination with "the tangly bits of social interaction;" a persistent attachment to metaphors that have to do with navigating physical space. If nothing else, I'm proud of how this piece articulated the contingent nature of one's research agenda, and of how my route (4) led me to more interesting places.
+
+-----
+
 So it occurs to me that since I’m going to be a professor (at the University of Michigan’s [School of Information](https://www.si.umich.edu/), starting September 2022), one big thing I should be thinking about is recruiting (and subsequently mentoring) students. To people who've emailed and asked, I've been equivocal on whether I'll actually take students in the coming year. In this post, I hope to provide a more helpful answer. 
 
 I'd like to try and explain where I am right now, intellectually: what types of research questions resonate with me; what are problems and challenges I’m trying to work through. These things directly feed into how I expect to relate with advisees. They also inform what type of lab I want. In very concrete terms, I intend to ease into it: I don't expect to take more than a few (if any) students in my first year. But I do want to leave the door open for people whose interests mesh with mine, in ways that I'll use this post to explain.

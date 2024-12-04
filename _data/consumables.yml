@@ -12,21 +12,15 @@
   author: "John Le Carré, edited by Tim Cornwell"
   link: "https://bookshop.org/p/books/a-private-spy-the-letters-of-john-le-carre-john-le-carre/18231424?ean=9780593490679"
   date: "2023/05"
-  state: "present"
+  state: "past"
 
 - id: "lecarre2004friends"
   name: "Absolute Friends"
   author: "John Le Carré"
   link: "https://bookshop.org/p/books/absolute-friends-john-le-carre/16438713?ean=9780316159395"
   date: "2023/06"
-  state: "present"
+  state: "past"
 
-- id: "polletta2004meeting"
-  name: "Freedom Is an Endless Meeting"
-  author: "Francesca Polletta"
-  link: "https://bookshop.org/p/books/freedom-is-an-endless-meeting-democracy-in-american-social-movements-francesca-polletta/8335567?ean=9780226674490"
-  date: "2023/06"
-  state: "present"
 
 # past
 
