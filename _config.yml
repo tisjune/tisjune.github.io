@@ -18,6 +18,8 @@ fakeemail: tisjune @ umich . edu
 markdown: kramdown
 officemaploc: "https://goo.gl/maps/daP5GH4SWrdSBjDf7"
 officeloc: 3415 North Quad
+bsky: tisjune.bsky.social
+bskyurl: "https://bsky.app/profile/tisjune.bsky.social"
 include: ["_publications"]
 collections:
   - publications
