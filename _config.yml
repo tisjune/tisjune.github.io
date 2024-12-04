@@ -10,8 +10,8 @@ title: justine zhang
 description: "justine zhang's website"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "tisjune.github.io" # the base hostname & protocol for your site
-github_username:  tisjune
-twitter_username: tisjune
+# github_username:  tisjune
+# twitter_username: tisjune
 #email: jz727@cornell.edu
 fakeemail: tisjune @ umich . edu
 # Build settings
