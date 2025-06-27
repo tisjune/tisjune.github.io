@@ -66,6 +66,10 @@ lucasd:
   name: 'Lucas Dixon'
   website: 'https://jigsaw.google.com/'
 
+ninam:
+  name: 'Nina Markl'
+  website: 'https://ninamarkl.github.io/'
+
 nithumt:
   name: 'Nithum Thain'
   website: 'https://ai.google/research/people/105662'
@@ -89,6 +93,10 @@ sendhilm:
 sujithr:
   name: 'Sujith Ravi'
   website: 'http://www.sravi.org/'
+
+sulinb:
+  name: 'Su Lin Blodgett'
+  website: 'https://sblodgett.github.io/'
 
 susand:
   name: 'Susan T. Dumais'
