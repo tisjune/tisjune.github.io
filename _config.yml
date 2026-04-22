@@ -16,8 +16,8 @@ url: "tisjune.github.io" # the base hostname & protocol for your site
 fakeemail: tisjune @ umich . edu
 # Build settings
 markdown: kramdown
-officemaploc: "https://goo.gl/maps/daP5GH4SWrdSBjDf7"
-officeloc: 3415 North Quad
+officemaploc: "https://maps.app.goo.gl/2DvBhTcybNNGJ7Yp8"
+officeloc: 5130 Leinweber
 bsky: tisjune.bsky.social
 bskyurl: "https://bsky.app/profile/tisjune.bsky.social"
 include: ["_publications"]
